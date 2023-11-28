@@ -1,0 +1,1165 @@
+"","Region","Market","Month","Year","Longitude","Latitude","pkg.mai.maize","pkg.mai.millm"
+"2","Addis","Addis Ababa","December",2014,38.793806,9.023748,7.41,9
+"4","Addis","Addis Ababa","January",2015,38.793806,9.023748,7.56,11
+"5","Addis","Addis Ababa","July",2014,38.793806,9.023748,7.495,9
+"6","Addis","Addis Ababa","June",2015,38.793806,9.023748,7.32,NA
+"7","Addis","Addis Ababa","March",2015,38.793806,9.023748,7.15,10
+"8","Addis","Addis Ababa","May",2015,38.793806,9.023748,7,NA
+"9","Addis","Addis Ababa","November",2014,38.793806,9.023748,7.48,9
+"10","Addis","Addis Ababa","October",2014,38.793806,9.023748,7.74,9
+"12","Addis","Addis Ababa","September",2014,38.793806,9.023748,7.74,8.83
+"13","Amhara","Chuahit","August",2014,39.311961,10.643157,5.5,NA
+"14","Amhara","Gondar","August",2014,37.46149667,12.59878688,6,NA
+"15","Amhara","Esete","August",2014,37.88657423,10.92298692,6.44,NA
+"16","Amhara","Debre- Tabor ","August",2014,38.00833967,11.84769551,6.21,NA
+"17","Amhara","Kobo","August",2014,39.63127424,12.16406542,6.04,NA
+"18","Amhara","Weldiya","August",2014,39.6014117,11.82360232,7.2,NA
+"19","Amhara","Kombolcha","August",2014,39.73724188,11.07807805,6.38,NA
+"20","Amhara","Dessie","August",2014,39.63548793,11.11703902,6.37,NA
+"21","Amhara","Shewa- Robit ","August",2014,39.90269733,10.00580856,6.15,NA
+"22","Amhara","Debre-¦","August",2014,39.52890047,9.67650294,6,NA
+"23","Amhara","Chuahit","December",2014,39.311961,10.643157,4.2,NA
+"24","Amhara","Gondar","December",2014,37.46149667,12.59878688,5,NA
+"25","Amhara","Esete","December",2014,37.88657423,10.92298692,5.88,NA
+"26","Amhara","Debre- Tabor ","December",2014,38.00833967,11.84769551,5.73,NA
+"27","Amhara","Kobo","December",2014,39.63127424,12.16406542,3.67,NA
+"28","Amhara","Weldiya","December",2014,39.6014117,11.82360232,6.4,NA
+"29","Amhara","Kombolcha","December",2014,39.73724188,11.07807805,6.16,NA
+"30","Amhara","Dessie","December",2014,39.63548793,11.11703902,5.95,10
+"31","Amhara","Shewa- Robit ","December",2014,39.90269733,10.00580856,4.5,NA
+"32","Amhara","Debre-¦","December",2014,39.52890047,9.67650294,5,NA
+"33","Amhara","Chuahit","February",2015,39.311961,10.643157,4.5,NA
+"34","Amhara","Gondar","February",2015,37.46149667,12.59878688,5,NA
+"35","Amhara","Esete","February",2015,37.88657423,10.92298692,5.92,NA
+"36","Amhara","Debre- Tabor ","February",2015,38.00833967,11.84769551,5.15,NA
+"37","Amhara","Kobo","February",2015,39.63127424,12.16406542,3.98,NA
+"38","Amhara","Weldiya","February",2015,39.6014117,11.82360232,6.4,NA
+"39","Amhara","Kombolcha","February",2015,39.73724188,11.07807805,NA,NA
+"40","Amhara","Dessie","February",2015,39.63548793,11.11703902,5.86,NA
+"41","Amhara","Shewa- Robit ","February",2015,39.90269733,10.00580856,5.19,NA
+"42","Amhara","Debre-¦","February",2015,39.52890047,9.67650294,5,NA
+"43","Amhara","Chuahit","January",2015,39.311961,10.643157,4.28,NA
+"44","Amhara","Gondar","January",2015,37.46149667,12.59878688,5,NA
+"45","Amhara","Esete","January",2015,37.88657423,10.92298692,5.62,NA
+"46","Amhara","Debre- Tabor ","January",2015,38.00833967,11.84769551,5.37,NA
+"47","Amhara","Kobo","January",2015,39.63127424,12.16406542,4.38,NA
+"48","Amhara","Weldiya","January",2015,39.6014117,11.82360232,5.6,NA
+"49","Amhara","Kombolcha","January",2015,39.73724188,11.07807805,5.85,NA
+"50","Amhara","Dessie","January",2015,39.63548793,11.11703902,5.97,NA
+"51","Amhara","Shewa- Robit ","January",2015,39.90269733,10.00580856,5.17,NA
+"52","Amhara","Debre-¦","January",2015,39.52890047,9.67650294,5,NA
+"53","Amhara","Chuahit","July",2014,39.311961,10.643157,6,NA
+"54","Amhara","Gondar","July",2014,37.46149667,12.59878688,6,NA
+"55","Amhara","Esete","July",2014,37.88657423,10.92298692,6.49,NA
+"56","Amhara","Debre- Tabor ","July",2014,38.00833967,11.84769551,6.28,NA
+"57","Amhara","Kobo","July",2014,39.63127424,12.16406542,6.23,NA
+"58","Amhara","Weldiya","July",2014,39.6014117,11.82360232,6.8,NA
+"59","Amhara","Kombolcha","July",2014,39.73724188,11.07807805,5.82,NA
+"60","Amhara","Dessie","July",2014,39.63548793,11.11703902,5.98,16
+"61","Amhara","Shewa- Robit ","July",2014,39.90269733,10.00580856,6.72,NA
+"62","Amhara","Debre-¦","July",2014,39.52890047,9.67650294,6.5,NA
+"63","Amhara","Chuahit","June",2015,39.311961,10.643157,4.5,NA
+"64","Amhara","Gondar","June",2015,37.46149667,12.59878688,5,NA
+"65","Amhara","Esete","June",2015,37.88657423,10.92298692,5.69,NA
+"66","Amhara","Debre- Tabor ","June",2015,38.00833967,11.84769551,5.19,NA
+"67","Amhara","Kobo","June",2015,39.63127424,12.16406542,5.17,NA
+"68","Amhara","Weldiya","June",2015,39.6014117,11.82360232,5.63,NA
+"69","Amhara","Kombolcha","June",2015,39.73724188,11.07807805,5.84,NA
+"70","Amhara","Dessie","June",2015,39.63548793,11.11703902,5.53,NA
+"71","Amhara","Shewa- Robit ","June",2015,39.90269733,10.00580856,5.91,NA
+"72","Amhara","Debre-¦","June",2015,39.52890047,9.67650294,6,NA
+"73","Amhara","Chuahit","March",2015,39.311961,10.643157,4.67,NA
+"74","Amhara","Gondar","March",2015,37.46149667,12.59878688,5,NA
+"75","Amhara","Esete","March",2015,37.88657423,10.92298692,5.72,NA
+"76","Amhara","Debre- Tabor ","March",2015,38.00833967,11.84769551,5.15,NA
+"77","Amhara","Kobo","March",2015,39.63127424,12.16406542,4.24,NA
+"78","Amhara","Weldiya","March",2015,39.6014117,11.82360232,5.65,NA
+"79","Amhara","Kombolcha","March",2015,39.73724188,11.07807805,NA,NA
+"80","Amhara","Dessie","March",2015,39.63548793,11.11703902,5.85,NA
+"81","Amhara","Shewa- Robit ","March",2015,39.90269733,10.00580856,5.3,NA
+"82","Amhara","Debre-¦","March",2015,39.52890047,9.67650294,5.24,NA
+"83","Amhara","Chuahit","May",2015,39.311961,10.643157,5,NA
+"84","Amhara","Gondar","May",2015,37.46149667,12.59878688,5,NA
+"85","Amhara","Esete","May",2015,37.88657423,10.92298692,5.84,NA
+"86","Amhara","Debre- Tabor ","May",2015,38.00833967,11.84769551,5.15,NA
+"87","Amhara","Kobo","May",2015,39.63127424,12.16406542,4.24,NA
+"88","Amhara","Weldiya","May",2015,39.6014117,11.82360232,5.6,NA
+"89","Amhara","Kombolcha","May",2015,39.73724188,11.07807805,5.34,NA
+"90","Amhara","Dessie","May",2015,39.63548793,11.11703902,5.83,NA
+"91","Amhara","Shewa- Robit ","May",2015,39.90269733,10.00580856,7.6,NA
+"92","Amhara","Debre-¦","May",2015,39.52890047,9.67650294,5,NA
+"93","Amhara","Chuahit","November",2014,39.311961,10.643157,4.5,NA
+"94","Amhara","Gondar","November",2014,37.46149667,12.59878688,5,NA
+"95","Amhara","Esete","November",2014,37.88657423,10.92298692,5.79,NA
+"96","Amhara","Debre- Tabor ","November",2014,38.00833967,11.84769551,5.43,NA
+"97","Amhara","Kobo","November",2014,39.63127424,12.16406542,5.01,NA
+"98","Amhara","Weldiya","November",2014,39.6014117,11.82360232,6.4,NA
+"99","Amhara","Kombolcha","November",2014,39.73724188,11.07807805,5.93,NA
+"100","Amhara","Dessie","November",2014,39.63548793,11.11703902,6.04,16
+"101","Amhara","Shewa- Robit ","November",2014,39.90269733,10.00580856,6.17,NA
+"102","Amhara","Debre-¦","November",2014,39.52890047,9.67650294,5,NA
+"103","Amhara","Chuahit","October",2014,39.311961,10.643157,5,NA
+"104","Amhara","Gondar","October",2014,37.46149667,12.59878688,5.6,NA
+"105","Amhara","Esete","October",2014,37.88657423,10.92298692,7.07,NA
+"106","Amhara","Debre- Tabor ","October",2014,38.00833967,11.84769551,5.95,NA
+"107","Amhara","Kobo","October",2014,39.63127424,12.16406542,5.83,NA
+"108","Amhara","Weldiya","October",2014,39.6014117,11.82360232,7.86,NA
+"109","Amhara","Kombolcha","October",2014,39.73724188,11.07807805,5.85,NA
+"110","Amhara","Dessie","October",2014,39.63548793,11.11703902,6.13,16
+"111","Amhara","Shewa- Robit ","October",2014,39.90269733,10.00580856,6.12,NA
+"112","Amhara","Debre-¦","October",2014,39.52890047,9.67650294,5.5,NA
+"123","Amhara","Chuahit","September",2014,39.311961,10.643157,5.22,NA
+"124","Amhara","Gondar","September",2014,37.46149667,12.59878688,6,NA
+"125","Amhara","Esete","September",2014,37.88657423,10.92298692,6.66,NA
+"126","Amhara","Debre- Tabor ","September",2014,38.00833967,11.84769551,6.18,NA
+"127","Amhara","Kobo","September",2014,39.63127424,12.16406542,5.93,NA
+"128","Amhara","Weldiya","September",2014,39.6014117,11.82360232,6.8,NA
+"129","Amhara","Kombolcha","September",2014,39.73724188,11.07807805,6.06,NA
+"130","Amhara","Dessie","September",2014,39.63548793,11.11703902,5.89,16
+"131","Amhara","Shewa- Robit ","September",2014,39.90269733,10.00580856,6.79,NA
+"132","Amhara","Debre-¦","September",2014,39.52890047,9.67650294,6.16,NA
+"133","Amhara","Mota","August",2014,37.8807432,11.07475582,5.8,NA
+"134","Amhara","Debre- Markos ","August",2014,37.72636868,10.33641293,6.36,NA
+"135","Amhara","Dembecha","August",2014,37.48251554,10.56669266,5.64,NA
+"136","Amhara","Bahir- Dar ","August",2014,37.3815488,11.58416449,5.93,NA
+"137","Amhara","Sekota","August",2014,39.03355257,12.62479803,6.93,NA
+"138","Amhara","Amde Work ","August",2014,38.85815043,12.45920199,7.41,NA
+"139","Amhara","Danigla","August",2014,36.83153176,11.25223153,5.43,NA
+"140","Amhara","Chagni","August",2014,36.50793596,10.95196565,5.5,NA
+"141","Amhara","Kemise","August",2014,39.85696873,10.71374234,4.89,NA
+"142","Amhara","Bati","August",2014,40.0181327,11.19153266,6.15,NA
+"143","Amhara","Mota","December",2014,37.8807432,11.07475582,3.73,NA
+"144","Amhara","Debre- Markos ","December",2014,37.72636868,10.33641293,5.8,NA
+"145","Amhara","Dembecha","December",2014,37.48251554,10.56669266,4.57,NA
+"146","Amhara","Bahir- Dar ","December",2014,37.3815488,11.58416449,5.24,NA
+"147","Amhara","Sekota","December",2014,39.03355257,12.62479803,6.37,NA
+"148","Amhara","Amde Work ","December",2014,38.85815043,12.45920199,7.4,NA
+"149","Amhara","Danigla","December",2014,36.83153176,11.25223153,4.21,NA
+"150","Amhara","Chagni","December",2014,36.50793596,10.95196565,4,NA
+"151","Amhara","Kemise","December",2014,39.85696873,10.71374234,5.2,NA
+"152","Amhara","Bati","December",2014,40.0181327,11.19153266,5.69,NA
+"153","Amhara","Mota","February",2015,37.8807432,11.07475582,3.73,NA
+"154","Amhara","Debre- Markos ","February",2015,37.72636868,10.33641293,5.21,NA
+"155","Amhara","Dembecha","February",2015,37.48251554,10.56669266,4.22,NA
+"156","Amhara","Bahir- Dar ","February",2015,37.3815488,11.58416449,5.65,NA
+"157","Amhara","Sekota","February",2015,39.03355257,12.62479803,5.85,NA
+"158","Amhara","Amde Work ","February",2015,38.85815043,12.45920199,7.7,NA
+"159","Amhara","Danigla","February",2015,36.83153176,11.25223153,4.1,NA
+"160","Amhara","Chagni","February",2015,36.50793596,10.95196565,4,NA
+"161","Amhara","Kemise","February",2015,39.85696873,10.71374234,5.34,NA
+"162","Amhara","Bati","February",2015,40.0181327,11.19153266,5.17,NA
+"163","Amhara","Mota","January",2015,37.8807432,11.07475582,3.19,NA
+"164","Amhara","Debre- Markos ","January",2015,37.72636868,10.33641293,5.06,NA
+"165","Amhara","Dembecha","January",2015,37.48251554,10.56669266,4.27,NA
+"166","Amhara","Bahir- Dar ","January",2015,37.3815488,11.58416449,5.65,NA
+"167","Amhara","Sekota","January",2015,39.03355257,12.62479803,5.77,NA
+"168","Amhara","Amde Work ","January",2015,38.85815043,12.45920199,7.52,NA
+"169","Amhara","Danigla","January",2015,36.83153176,11.25223153,4.16,NA
+"170","Amhara","Chagni","January",2015,36.50793596,10.95196565,4.5,NA
+"171","Amhara","Kemise","January",2015,39.85696873,10.71374234,6.57,NA
+"172","Amhara","Bati","January",2015,40.0181327,11.19153266,5.3,NA
+"173","Amhara","Mota","July",2014,37.8807432,11.07475582,5.62,NA
+"174","Amhara","Debre- Markos ","July",2014,37.72636868,10.33641293,6.33,NA
+"175","Amhara","Dembecha","July",2014,37.48251554,10.56669266,5.62,NA
+"176","Amhara","Bahir- Dar ","July",2014,37.3815488,11.58416449,6,NA
+"177","Amhara","Sekota","July",2014,39.03355257,12.62479803,6.85,NA
+"178","Amhara","Amde Work ","July",2014,38.85815043,12.45920199,8.52,NA
+"179","Amhara","Danigla","July",2014,36.83153176,11.25223153,5.33,NA
+"180","Amhara","Chagni","July",2014,36.50793596,10.95196565,5.5,NA
+"181","Amhara","Kemise","July",2014,39.85696873,10.71374234,5.74,NA
+"182","Amhara","Bati","July",2014,40.0181327,11.19153266,6.06,NA
+"183","Amhara","Mota","June",2015,37.8807432,11.07475582,4.23,NA
+"184","Amhara","Debre- Markos ","June",2015,37.72636868,10.33641293,5,NA
+"185","Amhara","Dembecha","June",2015,37.48251554,10.56669266,4.68,NA
+"186","Amhara","Bahir- Dar ","June",2015,37.3815488,11.58416449,4.67,NA
+"187","Amhara","Sekota","June",2015,39.03355257,12.62479803,5.79,NA
+"188","Amhara","Amde Work ","June",2015,38.85815043,12.45920199,7.41,NA
+"189","Amhara","Danigla","June",2015,36.83153176,11.25223153,4.33,NA
+"190","Amhara","Chagni","June",2015,36.50793596,10.95196565,4.5,NA
+"191","Amhara","Kemise","June",2015,39.85696873,10.71374234,3.05,NA
+"192","Amhara","Bati","June",2015,40.0181327,11.19153266,6.17,NA
+"193","Amhara","Mota","March",2015,37.8807432,11.07475582,4.01,NA
+"194","Amhara","Debre- Markos ","March",2015,37.72636868,10.33641293,5.04,NA
+"195","Amhara","Dembecha","March",2015,37.48251554,10.56669266,4.09,NA
+"196","Amhara","Bahir- Dar ","March",2015,37.3815488,11.58416449,4.76,NA
+"197","Amhara","Sekota","March",2015,39.03355257,12.62479803,5.86,NA
+"198","Amhara","Amde Work ","March",2015,38.85815043,12.45920199,7.03,NA
+"199","Amhara","Danigla","March",2015,36.83153176,11.25223153,4.27,NA
+"200","Amhara","Chagni","March",2015,36.50793596,10.95196565,4,NA
+"201","Amhara","Kemise","March",2015,39.85696873,10.71374234,5.18,NA
+"202","Amhara","Bati","March",2015,40.0181327,11.19153266,5.27,NA
+"203","Amhara","Mota","May",2015,37.8807432,11.07475582,3.66,NA
+"204","Amhara","Debre- Markos ","May",2015,37.72636868,10.33641293,4.65,NA
+"205","Amhara","Dembecha","May",2015,37.48251554,10.56669266,3.91,NA
+"206","Amhara","Bahir- Dar ","May",2015,37.3815488,11.58416449,5.94,NA
+"207","Amhara","Sekota","May",2015,39.03355257,12.62479803,5.93,NA
+"208","Amhara","Amde Work ","May",2015,38.85815043,12.45920199,7.89,NA
+"209","Amhara","Danigla","May",2015,36.83153176,11.25223153,4.09,NA
+"210","Amhara","Chagni","May",2015,36.50793596,10.95196565,4,NA
+"211","Amhara","Kemise","May",2015,39.85696873,10.71374234,5.8,NA
+"212","Amhara","Bati","May",2015,40.0181327,11.19153266,4.91,NA
+"213","Amhara","Mota","November",2014,37.8807432,11.07475582,5.22,NA
+"214","Amhara","Debre- Markos ","November",2014,37.72636868,10.33641293,5.92,NA
+"215","Amhara","Dembecha","November",2014,37.48251554,10.56669266,4.86,NA
+"216","Amhara","Bahir- Dar ","November",2014,37.3815488,11.58416449,4.93,NA
+"217","Amhara","Sekota","November",2014,39.03355257,12.62479803,6.47,NA
+"218","Amhara","Amde Work ","November",2014,38.85815043,12.45920199,7.65,NA
+"219","Amhara","Danigla","November",2014,36.83153176,11.25223153,4.25,NA
+"220","Amhara","Chagni","November",2014,36.50793596,10.95196565,4.43,NA
+"221","Amhara","Kemise","November",2014,39.85696873,10.71374234,5.02,NA
+"222","Amhara","Bati","November",2014,40.0181327,11.19153266,5.76,NA
+"223","Amhara","Mota","October",2014,37.8807432,11.07475582,5.11,NA
+"224","Amhara","Debre- Markos ","October",2014,37.72636868,10.33641293,5.87,NA
+"225","Amhara","Dembecha","October",2014,37.48251554,10.56669266,5.12,NA
+"226","Amhara","Bahir- Dar ","October",2014,37.3815488,11.58416449,5.93,NA
+"227","Amhara","Sekota","October",2014,39.03355257,12.62479803,6.66,NA
+"228","Amhara","Amde Work ","October",2014,38.85815043,12.45920199,8.57,NA
+"229","Amhara","Danigla","October",2014,36.83153176,11.25223153,5.14,NA
+"230","Amhara","Chagni","October",2014,36.50793596,10.95196565,4.66,NA
+"231","Amhara","Kemise","October",2014,39.85696873,10.71374234,8.84,NA
+"232","Amhara","Bati","October",2014,40.0181327,11.19153266,6.23,NA
+"243","Amhara","Mota","September",2014,37.8807432,11.07475582,5.11,NA
+"244","Amhara","Debre- Markos ","September",2014,37.72636868,10.33641293,6.21,NA
+"245","Amhara","Dembecha","September",2014,37.48251554,10.56669266,5.33,NA
+"246","Amhara","Bahir- Dar ","September",2014,37.3815488,11.58416449,6.49,NA
+"247","Amhara","Sekota","September",2014,39.03355257,12.62479803,7.06,NA
+"248","Amhara","Amde Work ","September",2014,38.85815043,12.45920199,8.07,NA
+"249","Amhara","Danigla","September",2014,36.83153176,11.25223153,5.97,NA
+"250","Amhara","Chagni","September",2014,36.50793596,10.95196565,4.83,NA
+"251","Amhara","Kemise","September",2014,39.85696873,10.71374234,6.19,NA
+"252","Amhara","Bati","September",2014,40.0181327,11.19153266,6.1,NA
+"253","Gambella","Gambella","August",2014,34.58547076,8.249396585,6,7
+"254","Gambella","Shebo- Kire ","August",2014,NA,NA,5.12,NA
+"255","Gambella","Meti","August",2014,7.233333333,35.31666667,6,NA
+"256","Diredawa","Dire Dawa ","August",2014,41.8572763,9.593652332,7.32,8
+"257","Diredawa","Melka- Jebdu ","August",2014,41.77420401,9.617496554,8,NA
+"258","Gambella","Gambella","December",2014,34.58547076,8.249396585,5,7
+"259","Gambella","Shebo- Kire ","December",2014,NA,NA,4.09,NA
+"260","Gambella","Meti","December",2014,7.233333333,35.31666667,3.83,NA
+"261","Diredawa","Dire Dawa ","December",2014,41.8572763,9.593652332,7.05,8
+"262","Diredawa","Melka- Jebdu ","December",2014,41.77420401,9.617496554,6.66,NA
+"263","Gambella","Gambella","February",2015,34.58547076,8.249396585,4.83,7
+"264","Gambella","Shebo- Kire ","February",2015,NA,NA,4.38,NA
+"265","Gambella","Meti","February",2015,7.233333333,35.31666667,4,5
+"266","Diredawa","Dire Dawa ","February",2015,41.8572763,9.593652332,6.83,8
+"267","Diredawa","Melka- Jebdu ","February",2015,41.77420401,9.617496554,6,NA
+"268","Gambella","Gambella","January",2015,34.58547076,8.249396585,5,7
+"269","Gambella","Shebo- Kire ","January",2015,NA,NA,4.08,NA
+"270","Gambella","Meti","January",2015,7.233333333,35.31666667,6,NA
+"271","Diredawa","Dire Dawa ","January",2015,41.8572763,9.593652332,7.07,8
+"272","Diredawa","Melka- Jebdu ","January",2015,41.77420401,9.617496554,6.65,NA
+"273","Gambella","Gambella","July",2014,34.58547076,8.249396585,6,NA
+"274","Gambella","Shebo- Kire ","July",2014,NA,NA,6.38,NA
+"275","Gambella","Meti","July",2014,7.233333333,35.31666667,7,NA
+"276","Diredawa","Dire Dawa ","July",2014,41.8572763,9.593652332,7.32,8.12
+"277","Diredawa","Melka- Jebdu ","July",2014,41.77420401,9.617496554,7.32,NA
+"278","Gambella","Gambella","June",2015,34.58547076,8.249396585,6,7
+"279","Gambella","Shebo- Kire ","June",2015,NA,NA,5.5,NA
+"280","Gambella","Meti","June",2015,7.233333333,35.31666667,5,6
+"281","Diredawa","Dire Dawa ","June",2015,41.8572763,9.593652332,6.57,8.21
+"282","Diredawa","Melka- Jebdu ","June",2015,41.77420401,9.617496554,7,NA
+"283","Gambella","Gambella","March",2015,34.58547076,8.249396585,6,7
+"284","Gambella","Shebo- Kire ","March",2015,NA,NA,5.05,NA
+"285","Gambella","Meti","March",2015,7.233333333,35.31666667,3.5,NA
+"286","Diredawa","Dire Dawa ","March",2015,41.8572763,9.593652332,6.91,7.5
+"287","Diredawa","Melka- Jebdu ","March",2015,41.77420401,9.617496554,6.5,NA
+"288","Gambella","Gambella","May",2015,34.58547076,8.249396585,5.31,7
+"289","Gambella","Shebo- Kire ","May",2015,NA,NA,5.62,NA
+"290","Gambella","Meti","May",2015,7.233333333,35.31666667,4,NA
+"291","Diredawa","Dire Dawa ","May",2015,41.8572763,9.593652332,7.16,10
+"292","Diredawa","Melka- Jebdu ","May",2015,41.77420401,9.617496554,6.5,NA
+"293","Gambella","Gambella","November",2014,34.58547076,8.249396585,6.16,7
+"294","Gambella","Shebo- Kire ","November",2014,NA,NA,5.34,NA
+"295","Gambella","Meti","November",2014,7.233333333,35.31666667,3,NA
+"296","Diredawa","Dire Dawa ","November",2014,41.8572763,9.593652332,7.39,8
+"297","Diredawa","Melka- Jebdu ","November",2014,41.77420401,9.617496554,6.16,NA
+"298","Gambella","Gambella","October",2014,34.58547076,8.249396585,6,7
+"299","Gambella","Shebo- Kire ","October",2014,NA,NA,5.23,NA
+"300","Gambella","Meti","October",2014,7.233333333,35.31666667,5,NA
+"301","Diredawa","Dire Dawa ","October",2014,41.8572763,9.593652332,7.39,8
+"302","Diredawa","Melka- Jebdu ","October",2014,41.77420401,9.617496554,7,NA
+"308","Gambella","Gambella","September",2014,34.58547076,8.249396585,7,8
+"309","Gambella","Shebo- Kire ","September",2014,NA,NA,5.23,NA
+"310","Gambella","Meti","September",2014,7.233333333,35.31666667,5.66,NA
+"311","Diredawa","Dire Dawa ","September",2014,41.8572763,9.593652332,7.32,8
+"312","Diredawa","Melka- Jebdu ","September",2014,41.77420401,9.617496554,7,NA
+"313","Oromiya","Ghimbi","August",2014,35.83291974,9.163103789,5,NA
+"314","Oromiya","Dembi- Dolo ","August",2014,34.79748694,8.530219501,4,NA
+"315","Oromiya","Shambu","August",2014,37.09431432,9.569809208,5.42,NA
+"316","Oromiya","Nekemte","August",2014,36.54851971,9.09042469,5,5.92
+"317","Oromiya","Bedele","August",2014,36.36017384,8.454821965,4.5,7.5
+"318","Oromiya","Metu","August",2014,35.58726864,8.300606827,5,7
+"319","Oromiya","Jimma","August",2014,36.84385226,7.672338798,5.96,8.57
+"320","Oromiya","Agaro","August",2014,36.58627683,7.848002731,5.59,8
+"321","Oromiya","Ambo","August",2014,37.8446066,8.976806527,5.81,NA
+"322","Oromiya","Weliso","August",2014,37.97073066,8.534178897,5.63,8.83
+"323","Oromiya","Ejere","August",2014,39.262249,8.78288,6.53,NA
+"324","Oromiya","Fiche","August",2014,38.73344116,9.791083661,6.54,NA
+"325","Oromiya","Ghimbi","December",2014,35.83291974,9.163103789,4.33,NA
+"326","Oromiya","Dembi- Dolo ","December",2014,34.79748694,8.530219501,4,NA
+"327","Oromiya","Shambu","December",2014,37.09431432,9.569809208,4.72,NA
+"328","Oromiya","Nekemte","December",2014,36.54851971,9.09042469,4.3,6.54
+"329","Oromiya","Bedele","December",2014,36.36017384,8.454821965,3.8,5
+"330","Oromiya","Metu","December",2014,35.58726864,8.300606827,4,6
+"331","Oromiya","Jimma","December",2014,36.84385226,7.672338798,5,5
+"332","Oromiya","Agaro","December",2014,36.58627683,7.848002731,4.12,8
+"333","Oromiya","Ambo","December",2014,37.8446066,8.976806527,4.43,NA
+"334","Oromiya","Weliso","December",2014,37.97073066,8.534178897,4.36,9.39
+"335","Oromiya","Ejere","December",2014,39.262249,8.78288,5.26,NA
+"336","Oromiya","Fiche","December",2014,38.73344116,9.791083661,5.7,NA
+"337","Oromiya","Ghimbi","February",2015,35.83291974,9.163103789,4.83,NA
+"338","Oromiya","Dembi- Dolo ","February",2015,34.79748694,8.530219501,4,NA
+"339","Oromiya","Shambu","February",2015,37.09431432,9.569809208,4.59,NA
+"340","Oromiya","Nekemte","February",2015,36.54851971,9.09042469,4,6.53
+"341","Oromiya","Bedele","February",2015,36.36017384,8.454821965,3.5,4.92
+"342","Oromiya","Metu","February",2015,35.58726864,8.300606827,4,6
+"343","Oromiya","Jimma","February",2015,36.84385226,7.672338798,6,8.33
+"344","Oromiya","Agaro","February",2015,36.58627683,7.848002731,4.12,8.5
+"345","Oromiya","Ambo","February",2015,37.8446066,8.976806527,6.53,NA
+"346","Oromiya","Weliso","February",2015,37.97073066,8.534178897,4.41,8.34
+"347","Oromiya","Ejere","February",2015,39.262249,8.78288,5.44,NA
+"348","Oromiya","Fiche","February",2015,38.73344116,9.791083661,5.74,NA
+"349","Oromiya","Ghimbi","January",2015,35.83291974,9.163103789,5,NA
+"350","Oromiya","Dembi- Dolo ","January",2015,34.79748694,8.530219501,3.5,NA
+"351","Oromiya","Shambu","January",2015,37.09431432,9.569809208,5.01,NA
+"352","Oromiya","Nekemte","January",2015,36.54851971,9.09042469,4,6.5
+"353","Oromiya","Bedele","January",2015,36.36017384,8.454821965,3.6,NA
+"354","Oromiya","Metu","January",2015,35.58726864,8.300606827,4,6
+"355","Oromiya","Jimma","January",2015,36.84385226,7.672338798,NA,8.57
+"356","Oromiya","Agaro","January",2015,36.58627683,7.848002731,4.12,8
+"357","Oromiya","Ambo","January",2015,37.8446066,8.976806527,4.81,NA
+"358","Oromiya","Weliso","January",2015,37.97073066,8.534178897,4.41,8.11
+"359","Oromiya","Ejere","January",2015,39.262249,8.78288,5.37,NA
+"360","Oromiya","Fiche","January",2015,38.73344116,9.791083661,5.75,NA
+"361","Oromiya","Ghimbi","July",2014,35.83291974,9.163103789,5,NA
+"362","Oromiya","Dembi- Dolo ","July",2014,34.79748694,8.530219501,4,NA
+"363","Oromiya","Shambu","July",2014,37.09431432,9.569809208,5.44,NA
+"364","Oromiya","Nekemte","July",2014,36.54851971,9.09042469,5.16,6.8
+"365","Oromiya","Bedele","July",2014,36.36017384,8.454821965,5,7.5
+"366","Oromiya","Metu","July",2014,35.58726864,8.300606827,5,7
+"367","Oromiya","Jimma","July",2014,36.84385226,7.672338798,6,8.45
+"368","Oromiya","Agaro","July",2014,36.58627683,7.848002731,5.59,8
+"369","Oromiya","Ambo","July",2014,37.8446066,8.976806527,6,NA
+"370","Oromiya","Weliso","July",2014,37.97073066,8.534178897,5.7,7.9
+"371","Oromiya","Ejere","July",2014,39.262249,8.78288,6.82,NA
+"372","Oromiya","Fiche","July",2014,38.73344116,9.791083661,6.5,NA
+"373","Oromiya","Ghimbi","June",2015,35.83291974,9.163103789,5,NA
+"374","Oromiya","Dembi- Dolo ","June",2015,34.79748694,8.530219501,5,NA
+"375","Oromiya","Shambu","June",2015,37.09431432,9.569809208,3.79,NA
+"376","Oromiya","Nekemte","June",2015,36.54851971,9.09042469,4.5,6.66
+"377","Oromiya","Bedele","June",2015,36.36017384,8.454821965,3.8,6.25
+"378","Oromiya","Metu","June",2015,35.58726864,8.300606827,4.83,6
+"379","Oromiya","Jimma","June",2015,36.84385226,7.672338798,6,6.06
+"380","Oromiya","Agaro","June",2015,36.58627683,7.848002731,5.29,8
+"381","Oromiya","Ambo","June",2015,37.8446066,8.976806527,5.28,NA
+"382","Oromiya","Weliso","June",2015,37.97073066,8.534178897,5.44,7.5
+"383","Oromiya","Ejere","June",2015,39.262249,8.78288,5.09,NA
+"384","Oromiya","Fiche","June",2015,38.73344116,9.791083661,5.7,NA
+"385","Oromiya","Ghimbi","March",2015,35.83291974,9.163103789,4.83,NA
+"386","Oromiya","Dembi- Dolo ","March",2015,34.79748694,8.530219501,3.83,NA
+"387","Oromiya","Shambu","March",2015,37.09431432,9.569809208,4.24,NA
+"388","Oromiya","Nekemte","March",2015,36.54851971,9.09042469,4,6.37
+"389","Oromiya","Bedele","March",2015,36.36017384,8.454821965,3.5,6.25
+"390","Oromiya","Metu","March",2015,35.58726864,8.300606827,4,6
+"391","Oromiya","Jimma","March",2015,36.84385226,7.672338798,5,8.45
+"392","Oromiya","Agaro","March",2015,36.58627683,7.848002731,4.12,8
+"393","Oromiya","Ambo","March",2015,37.8446066,8.976806527,4.73,NA
+"394","Oromiya","Weliso","March",2015,37.97073066,8.534178897,4.31,8.45
+"395","Oromiya","Ejere","March",2015,39.262249,8.78288,5.5,NA
+"396","Oromiya","Fiche","March",2015,38.73344116,9.791083661,5.21,NA
+"397","Oromiya","Ghimbi","May",2015,35.83291974,9.163103789,4.66,NA
+"398","Oromiya","Dembi- Dolo ","May",2015,34.79748694,8.530219501,3.5,NA
+"399","Oromiya","Shambu","May",2015,37.09431432,9.569809208,3.5,NA
+"400","Oromiya","Nekemte","May",2015,36.54851971,9.09042469,4,NA
+"401","Oromiya","Bedele","May",2015,36.36017384,8.454821965,3.8,NA
+"402","Oromiya","Metu","May",2015,35.58726864,8.300606827,4,NA
+"403","Oromiya","Jimma","May",2015,36.84385226,7.672338798,5,8.57
+"404","Oromiya","Agaro","May",2015,36.58627683,7.848002731,4.11,7.16
+"405","Oromiya","Ambo","May",2015,37.8446066,8.976806527,4.76,NA
+"406","Oromiya","Weliso","May",2015,37.97073066,8.534178897,4.37,8.97
+"407","Oromiya","Ejere","May",2015,39.262249,8.78288,4.71,NA
+"408","Oromiya","Fiche","May",2015,38.73344116,9.791083661,5.19,NA
+"409","Oromiya","Ghimbi","November",2014,35.83291974,9.163103789,4.66,NA
+"410","Oromiya","Dembi- Dolo ","November",2014,34.79748694,8.530219501,3,NA
+"411","Oromiya","Shambu","November",2014,37.09431432,9.569809208,4.76,NA
+"412","Oromiya","Nekemte","November",2014,36.54851971,9.09042469,3.8,6.5
+"413","Oromiya","Bedele","November",2014,36.36017384,8.454821965,3.7,5
+"414","Oromiya","Metu","November",2014,35.58726864,8.300606827,4.5,6.5
+"415","Oromiya","Jimma","November",2014,36.84385226,7.672338798,5,8.57
+"416","Oromiya","Agaro","November",2014,36.58627683,7.848002731,4.24,8
+"417","Oromiya","Ambo","November",2014,37.8446066,8.976806527,5.34,NA
+"418","Oromiya","Weliso","November",2014,37.97073066,8.534178897,4.64,9.39
+"419","Oromiya","Ejere","November",2014,39.262249,8.78288,5.19,NA
+"420","Oromiya","Fiche","November",2014,38.73344116,9.791083661,5.72,NA
+"421","Oromiya","Ghimbi","October",2014,35.83291974,9.163103789,5,NA
+"422","Oromiya","Dembi- Dolo ","October",2014,34.79748694,8.530219501,4,NA
+"423","Oromiya","Shambu","October",2014,37.09431432,9.569809208,5.46,NA
+"424","Oromiya","Nekemte","October",2014,36.54851971,9.09042469,5,7.05
+"425","Oromiya","Bedele","October",2014,36.36017384,8.454821965,4.5,5.8
+"426","Oromiya","Metu","October",2014,35.58726864,8.300606827,4.5,7
+"427","Oromiya","Jimma","October",2014,36.84385226,7.672338798,6,8.33
+"428","Oromiya","Agaro","October",2014,36.58627683,7.848002731,4.92,8.5
+"429","Oromiya","Ambo","October",2014,37.8446066,8.976806527,5.28,NA
+"430","Oromiya","Weliso","October",2014,37.97073066,8.534178897,5.57,9.5
+"431","Oromiya","Ejere","October",2014,39.262249,8.78288,5.22,NA
+"432","Oromiya","Fiche","October",2014,38.73344116,9.791083661,6.48,NA
+"445","Oromiya","Ghimbi","September",2014,35.83291974,9.163103789,5,NA
+"446","Oromiya","Dembi- Dolo ","September",2014,34.79748694,8.530219501,4,NA
+"447","Oromiya","Shambu","September",2014,37.09431432,9.569809208,5.45,NA
+"448","Oromiya","Nekemte","September",2014,36.54851971,9.09042469,5,6.8
+"449","Oromiya","Bedele","September",2014,36.36017384,8.454821965,4.16,5
+"450","Oromiya","Metu","September",2014,35.58726864,8.300606827,4.66,7
+"451","Oromiya","Jimma","September",2014,36.84385226,7.672338798,6.83,NA
+"452","Oromiya","Agaro","September",2014,36.58627683,7.848002731,5.29,8.16
+"453","Oromiya","Ambo","September",2014,37.8446066,8.976806527,5.93,NA
+"454","Oromiya","Weliso","September",2014,37.97073066,8.534178897,5.83,8.57
+"455","Oromiya","Ejere","September",2014,39.262249,8.78288,6.5,NA
+"456","Oromiya","Fiche","September",2014,38.73344116,9.791083661,6.9,NA
+"457","Oromiya","Nazareth","August",2014,39.26941988,8.535362997,6.33,10
+"458","Oromiya","Shashe-","August",2014,38.608142,7.205388,7,NA
+"459","Oromiya","Diksise","August",2014,39.55824,8.059179,8.18,NA
+"460","Oromiya","Asella","August",2014,39.12972322,7.949589951,6.83,10
+"461","Oromiya","Asebe- Teferi ","August",2014,40.86319806,9.072493603,7.16,7.83
+"462","Oromiya","Bedessa","August",2014,40.77378712,8.902011546,6.5,8.5
+"463","Oromiya","Alemaya","August",2014,42.01641123,9.379383214,6.33,7.66
+"464","Oromiya","Boreda","August",2014,41.278686,9.331067,7.16,NA
+"465","Oromiya","Adaba","August",2014,39.3890878,7.004454253,6.2,9
+"466","Oromiya","Robe","August",2014,39.631104,7.860619,6.32,NA
+"467","Oromiya","Hagere- Mariam ","August",2014,38.23373735,5.63380625,6,6.5
+"468","Oromiya","Negele- Borena ","August",2014,39.577385,5.33699,6.03,NA
+"469","Oromiya","Nazareth","December",2014,39.26941988,8.535362997,6.16,10
+"470","Oromiya","Shashe-","December",2014,38.608142,7.205388,5.5,NA
+"471","Oromiya","Diksise","December",2014,39.55824,8.059179,7.47,NA
+"472","Oromiya","Asella","December",2014,39.12972322,7.949589951,6,11
+"473","Oromiya","Asebe- Teferi ","December",2014,40.86319806,9.072493603,5.83,7.49
+"474","Oromiya","Bedessa","December",2014,40.77378712,8.902011546,4.77,8
+"475","Oromiya","Alemaya","December",2014,42.01641123,9.379383214,6.66,8
+"476","Oromiya","Boreda","December",2014,41.278686,9.331067,5.16,NA
+"477","Oromiya","Adaba","December",2014,39.3890878,7.004454253,5.43,8.66
+"478","Oromiya","Robe","December",2014,39.631104,7.860619,5.43,NA
+"479","Oromiya","Hagere- Mariam ","December",2014,38.23373735,5.63380625,5,5.5
+"480","Oromiya","Negele- Borena ","December",2014,39.577385,5.33699,4.56,13.31
+"481","Oromiya","Nazareth","February",2015,39.26941988,8.535362997,6,10
+"482","Oromiya","Shashe-","February",2015,38.608142,7.205388,5.5,NA
+"483","Oromiya","Diksise","February",2015,39.55824,8.059179,6.47,NA
+"484","Oromiya","Asella","February",2015,39.12972322,7.949589951,6,11
+"485","Oromiya","Asebe- Teferi ","February",2015,40.86319806,9.072493603,5.33,7
+"486","Oromiya","Bedessa","February",2015,40.77378712,8.902011546,4.66,6
+"487","Oromiya","Alemaya","February",2015,42.01641123,9.379383214,5.33,7.16
+"488","Oromiya","Boreda","February",2015,41.278686,9.331067,5.48,NA
+"489","Oromiya","Adaba","February",2015,39.3890878,7.004454253,5.31,8
+"490","Oromiya","Robe","February",2015,39.631104,7.860619,5.53,10.49
+"491","Oromiya","Hagere- Mariam ","February",2015,38.23373735,5.63380625,5,5.5
+"492","Oromiya","Negele- Borena ","February",2015,39.577385,5.33699,5.47,12.21
+"493","Oromiya","Nazareth","January",2015,39.26941988,8.535362997,6,10
+"494","Oromiya","Shashe-","January",2015,38.608142,7.205388,5.5,NA
+"495","Oromiya","Diksise","January",2015,39.55824,8.059179,6.67,NA
+"496","Oromiya","Asella","January",2015,39.12972322,7.949589951,6,11
+"497","Oromiya","Asebe- Teferi ","January",2015,40.86319806,9.072493603,5.99,7.33
+"498","Oromiya","Bedessa","January",2015,40.77378712,8.902011546,4.66,8
+"499","Oromiya","Alemaya","January",2015,42.01641123,9.379383214,5.48,7.16
+"500","Oromiya","Boreda","January",2015,41.278686,9.331067,5.83,NA
+"501","Oromiya","Adaba","January",2015,39.3890878,7.004454253,5.4,8
+"502","Oromiya","Robe","January",2015,39.631104,7.860619,5.38,10.49
+"503","Oromiya","Hagere- Mariam ","January",2015,38.23373735,5.63380625,6,6.5
+"504","Oromiya","Negele- Borena ","January",2015,39.577385,5.33699,5.75,14.12
+"505","Oromiya","Nazareth","July",2014,39.26941988,8.535362997,6.49,10
+"506","Oromiya","Shashe-","July",2014,38.608142,7.205388,7,NA
+"507","Oromiya","Diksise","July",2014,39.55824,8.059179,7.5,NA
+"508","Oromiya","Asella","July",2014,39.12972322,7.949589951,6.83,10
+"509","Oromiya","Asebe- Teferi ","July",2014,40.86319806,9.072493603,6.66,7.83
+"510","Oromiya","Bedessa","July",2014,40.77378712,8.902011546,6.2,8.5
+"511","Oromiya","Alemaya","July",2014,42.01641123,9.379383214,6.83,7.83
+"512","Oromiya","Boreda","July",2014,41.278686,9.331067,6.66,NA
+"513","Oromiya","Adaba","July",2014,39.3890878,7.004454253,7.2,9
+"514","Oromiya","Robe","July",2014,39.631104,7.860619,6.87,NA
+"515","Oromiya","Hagere- Mariam ","July",2014,38.23373735,5.63380625,5,5.66
+"516","Oromiya","Negele- Borena ","July",2014,39.577385,5.33699,5.71,13.96
+"517","Oromiya","Nazareth","June",2015,39.26941988,8.535362997,6,10
+"518","Oromiya","Shashe-","June",2015,38.608142,7.205388,7,NA
+"519","Oromiya","Diksise","June",2015,39.55824,8.059179,8.79,NA
+"520","Oromiya","Asella","June",2015,39.12972322,7.949589951,5.83,11
+"521","Oromiya","Asebe- Teferi ","June",2015,40.86319806,9.072493603,6.16,7.83
+"522","Oromiya","Bedessa","June",2015,40.77378712,8.902011546,5.47,8
+"523","Oromiya","Alemaya","June",2015,42.01641123,9.379383214,6,7.83
+"524","Oromiya","Boreda","June",2015,41.278686,9.331067,6.16,NA
+"525","Oromiya","Adaba","June",2015,39.3890878,7.004454253,6.15,9
+"526","Oromiya","Robe","June",2015,39.631104,7.860619,6.33,11
+"527","Oromiya","Hagere- Mariam ","June",2015,38.23373735,5.63380625,6,6.5
+"528","Oromiya","Negele- Borena ","June",2015,39.577385,5.33699,5.66,13.01
+"529","Oromiya","Nazareth","March",2015,39.26941988,8.535362997,6.16,10
+"530","Oromiya","Shashe-","March",2015,38.608142,7.205388,5.5,NA
+"531","Oromiya","Diksise","March",2015,39.55824,8.059179,7.41,NA
+"532","Oromiya","Asella","March",2015,39.12972322,7.949589951,5.83,11
+"533","Oromiya","Asebe- Teferi ","March",2015,40.86319806,9.072493603,5.83,7
+"534","Oromiya","Bedessa","March",2015,40.77378712,8.902011546,4.83,7
+"535","Oromiya","Alemaya","March",2015,42.01641123,9.379383214,5.66,7.32
+"536","Oromiya","Boreda","March",2015,41.278686,9.331067,5.16,NA
+"537","Oromiya","Adaba","March",2015,39.3890878,7.004454253,5.3,8
+"538","Oromiya","Robe","March",2015,39.631104,7.860619,5.34,11
+"539","Oromiya","Hagere- Mariam ","March",2015,38.23373735,5.63380625,5.5,6
+"540","Oromiya","Negele- Borena ","March",2015,39.577385,5.33699,5.49,NA
+"541","Oromiya","Nazareth","May",2015,39.26941988,8.535362997,6,10
+"542","Oromiya","Shashe-","May",2015,38.608142,7.205388,5.5,NA
+"543","Oromiya","Diksise","May",2015,39.55824,8.059179,NA,NA
+"544","Oromiya","Asella","May",2015,39.12972322,7.949589951,5.66,11
+"545","Oromiya","Asebe- Teferi ","May",2015,40.86319806,9.072493603,6.5,8
+"546","Oromiya","Bedessa","May",2015,40.77378712,8.902011546,5.48,9
+"547","Oromiya","Alemaya","May",2015,42.01641123,9.379383214,5.16,6.83
+"548","Oromiya","Boreda","May",2015,41.278686,9.331067,5.26,NA
+"549","Oromiya","Adaba","May",2015,39.3890878,7.004454253,6.16,8.66
+"550","Oromiya","Robe","May",2015,39.631104,7.860619,6.2,11
+"551","Oromiya","Hagere- Mariam ","May",2015,38.23373735,5.63380625,5.5,NA
+"552","Oromiya","Negele- Borena ","May",2015,39.577385,5.33699,5,14.04
+"553","Oromiya","Nazareth","November",2014,39.26941988,8.535362997,6.66,10
+"554","Oromiya","Shashe-","November",2014,38.608142,7.205388,5.5,NA
+"555","Oromiya","Diksise","November",2014,39.55824,8.059179,6.69,NA
+"556","Oromiya","Asella","November",2014,39.12972322,7.949589951,6,11
+"557","Oromiya","Asebe- Teferi ","November",2014,40.86319806,9.072493603,6,7.33
+"558","Oromiya","Bedessa","November",2014,40.77378712,8.902011546,4.84,7
+"559","Oromiya","Alemaya","November",2014,42.01641123,9.379383214,6.24,8
+"560","Oromiya","Boreda","November",2014,41.278686,9.331067,6.33,NA
+"561","Oromiya","Adaba","November",2014,39.3890878,7.004454253,5.47,8.66
+"562","Oromiya","Robe","November",2014,39.631104,7.860619,4.72,NA
+"563","Oromiya","Hagere- Mariam ","November",2014,38.23373735,5.63380625,6,6.5
+"564","Oromiya","Negele- Borena ","November",2014,39.577385,5.33699,4.93,13.56
+"565","Oromiya","Nazareth","October",2014,39.26941988,8.535362997,6.83,10
+"566","Oromiya","Shashe-","October",2014,38.608142,7.205388,5.16,NA
+"567","Oromiya","Diksise","October",2014,39.55824,8.059179,7.53,NA
+"568","Oromiya","Asella","October",2014,39.12972322,7.949589951,6.5,11
+"569","Oromiya","Asebe- Teferi ","October",2014,40.86319806,9.072493603,7.49,8
+"570","Oromiya","Bedessa","October",2014,40.77378712,8.902011546,5.5,8
+"571","Oromiya","Alemaya","October",2014,42.01641123,9.379383214,6.5,8
+"572","Oromiya","Boreda","October",2014,41.278686,9.331067,6.33,NA
+"573","Oromiya","Adaba","October",2014,39.3890878,7.004454253,5.52,9
+"574","Oromiya","Robe","October",2014,39.631104,7.860619,5.43,NA
+"575","Oromiya","Hagere- Mariam ","October",2014,38.23373735,5.63380625,4.5,5
+"576","Oromiya","Negele- Borena ","October",2014,39.577385,5.33699,5.71,14.38
+"589","Oromiya","Nazareth","September",2014,39.26941988,8.535362997,6.5,10
+"590","Oromiya","Shashe-","September",2014,38.608142,7.205388,5.66,NA
+"591","Oromiya","Diksise","September",2014,39.55824,8.059179,7.56,NA
+"592","Oromiya","Asella","September",2014,39.12972322,7.949589951,6.5,11
+"593","Oromiya","Asebe- Teferi ","September",2014,40.86319806,9.072493603,7.49,8.25
+"594","Oromiya","Bedessa","September",2014,40.77378712,8.902011546,6.37,8
+"595","Oromiya","Alemaya","September",2014,42.01641123,9.379383214,6.33,7.83
+"596","Oromiya","Boreda","September",2014,41.278686,9.331067,6.32,NA
+"597","Oromiya","Adaba","September",2014,39.3890878,7.004454253,5.48,9
+"598","Oromiya","Robe","September",2014,39.631104,7.860619,5.38,NA
+"599","Oromiya","Hagere- Mariam ","September",2014,38.23373735,5.63380625,5.83,6.33
+"600","Oromiya","Negele- Borena ","September",2014,39.577385,5.33699,5.71,12.58
+"601","Snnp","Welikite","August",2014,37.77266735,8.27732366,5.7,6.39
+"602","Snnp","Butajira","August",2014,38.42140499,8.173264069,7.11,NA
+"603","Snnp","Hosahna","August",2014,37.84747123,7.538579317,6.5,NA
+"604","Snnp","Shone","August",2014,37.94869425,7.134857075,4.07,NA
+"605","Snnp","Doyugena","August",2014,37.78333,7.33333,6.2,8
+"606","Snnp","Alaba","August",2014,38.086143,7.311546,5.8,8
+"607","Snnp","Awasa","August",2014,38.474819,7.058624,6.3,7
+"608","Snnp","Hagere- Selam ","August",2014,38.51921184,6.513880636,5.65,7
+"609","Snnp","Dilla","August",2014,38.30745962,6.410516676,6.18,6.66
+"610","Snnp","Yirega-¦ Chefie ","August",2014,38.1988827,6.16095383,5.25,6.33
+"611","Snnp","Welikite","December",2014,37.77266735,8.27732366,4.4,5.68
+"612","Snnp","Butajira","December",2014,38.42140499,8.173264069,4.59,9
+"613","Snnp","Hosahna","December",2014,37.84747123,7.538579317,5.23,5
+"614","Snnp","Shone","December",2014,37.94869425,7.134857075,4.33,5.43
+"615","Snnp","Doyugena","December",2014,37.78333,7.33333,5,8.22
+"616","Snnp","Alaba","December",2014,38.086143,7.311546,4,7
+"617","Snnp","Awasa","December",2014,38.474819,7.058624,5.5,7.5
+"618","Snnp","Hagere- Selam ","December",2014,38.51921184,6.513880636,4.37,6.16
+"619","Snnp","Dilla","December",2014,38.30745962,6.410516676,5.16,6.16
+"620","Snnp","Yirega-¦ Chefie ","December",2014,38.1988827,6.16095383,5.5,6.5
+"621","Snnp","Welikite","February",2015,37.77266735,8.27732366,4.1,5.84
+"622","Snnp","Butajira","February",2015,38.42140499,8.173264069,4.02,NA
+"623","Snnp","Hosahna","February",2015,37.84747123,7.538579317,6,5
+"624","Snnp","Shone","February",2015,37.94869425,7.134857075,5.57,6.32
+"625","Snnp","Doyugena","February",2015,37.78333,7.33333,4.7,8.22
+"626","Snnp","Alaba","February",2015,38.086143,7.311546,4.2,5.47
+"627","Snnp","Awasa","February",2015,38.474819,7.058624,5.5,7
+"628","Snnp","Hagere- Selam ","February",2015,38.51921184,6.513880636,4.58,6.32
+"629","Snnp","Dilla","February",2015,38.30745962,6.410516676,5.16,5.66
+"630","Snnp","Yirega-¦ Chefie ","February",2015,38.1988827,6.16095383,5,5.83
+"631","Snnp","Welikite","January",2015,37.77266735,8.27732366,4.5,6.47
+"632","Snnp","Butajira","January",2015,38.42140499,8.173264069,4.57,NA
+"633","Snnp","Hosahna","January",2015,37.84747123,7.538579317,6,4.92
+"634","Snnp","Shone","January",2015,37.94869425,7.134857075,5.1,6.46
+"635","Snnp","Doyugena","January",2015,37.78333,7.33333,5,8.22
+"636","Snnp","Alaba","January",2015,38.086143,7.311546,4.4,6.16
+"637","Snnp","Awasa","January",2015,38.474819,7.058624,5.5,7.66
+"638","Snnp","Hagere- Selam ","January",2015,38.51921184,6.513880636,4.37,6
+"639","Snnp","Dilla","January",2015,38.30745962,6.410516676,5.83,6.33
+"640","Snnp","Yirega-¦ Chefie ","January",2015,38.1988827,6.16095383,5,5.66
+"641","Snnp","Welikite","July",2014,37.77266735,8.27732366,5.6,6.5
+"642","Snnp","Butajira","July",2014,38.42140499,8.173264069,7.01,9
+"643","Snnp","Hosahna","July",2014,37.84747123,7.538579317,6.25,4.48
+"644","Snnp","Shone","July",2014,37.94869425,7.134857075,6,7.7
+"645","Snnp","Doyugena","July",2014,37.78333,7.33333,6,7.69
+"646","Snnp","Alaba","July",2014,38.086143,7.311546,6,9
+"647","Snnp","Awasa","July",2014,38.474819,7.058624,6.5,7
+"648","Snnp","Hagere- Selam ","July",2014,38.51921184,6.513880636,5.75,6.66
+"649","Snnp","Dilla","July",2014,38.30745962,6.410516676,6,7
+"650","Snnp","Yirega-¦ Chefie ","July",2014,38.1988827,6.16095383,5.33,5.75
+"651","Snnp","Welikite","June",2015,37.77266735,8.27732366,5.7,6.85
+"652","Snnp","Butajira","June",2015,38.42140499,8.173264069,5.51,NA
+"653","Snnp","Hosahna","June",2015,37.84747123,7.538579317,6.5,4.92
+"654","Snnp","Shone","June",2015,37.94869425,7.134857075,5.73,7.24
+"655","Snnp","Doyugena","June",2015,37.78333,7.33333,6,9.38
+"656","Snnp","Alaba","June",2015,38.086143,7.311546,5.4,7
+"657","Snnp","Awasa","June",2015,38.474819,7.058624,6,7
+"658","Snnp","Hagere- Selam ","June",2015,38.51921184,6.513880636,5.94,7
+"659","Snnp","Dilla","June",2015,38.30745962,6.410516676,5.5,6.5
+"660","Snnp","Yirega-¦ Chefie ","June",2015,38.1988827,6.16095383,5.53,6.33
+"661","Snnp","Welikite","March",2015,37.77266735,8.27732366,4,5.98
+"662","Snnp","Butajira","March",2015,38.42140499,8.173264069,5.05,NA
+"663","Snnp","Hosahna","March",2015,37.84747123,7.538579317,6,4.84
+"664","Snnp","Shone","March",2015,37.94869425,7.134857075,5.63,6.82
+"665","Snnp","Doyugena","March",2015,37.78333,7.33333,4.8,8.11
+"666","Snnp","Alaba","March",2015,38.086143,7.311546,4,5
+"667","Snnp","Awasa","March",2015,38.474819,7.058624,5.5,7
+"668","Snnp","Hagere- Selam ","March",2015,38.51921184,6.513880636,4.5,6
+"669","Snnp","Dilla","March",2015,38.30745962,6.410516676,5.16,5.66
+"670","Snnp","Yirega-¦ Chefie ","March",2015,38.1988827,6.16095383,5,6
+"671","Snnp","Welikite","May",2015,37.77266735,8.27732366,4.8,6.25
+"672","Snnp","Butajira","May",2015,38.42140499,8.173264069,4.59,NA
+"673","Snnp","Hosahna","May",2015,37.84747123,7.538579317,6.5,4.92
+"674","Snnp","Shone","May",2015,37.94869425,7.134857075,5.4,6.9
+"675","Snnp","Doyugena","May",2015,37.78333,7.33333,4.8,8.33
+"676","Snnp","Alaba","May",2015,38.086143,7.311546,4.5,7
+"677","Snnp","Awasa","May",2015,38.474819,7.058624,5.5,7
+"678","Snnp","Hagere- Selam ","May",2015,38.51921184,6.513880636,4.53,6.16
+"679","Snnp","Dilla","May",2015,38.30745962,6.410516676,5.5,6.33
+"680","Snnp","Yirega-¦ Chefie ","May",2015,38.1988827,6.16095383,5,6
+"681","Snnp","Welikite","November",2014,37.77266735,8.27732366,4.2,6.36
+"682","Snnp","Butajira","November",2014,38.42140499,8.173264069,5.24,9
+"683","Snnp","Hosahna","November",2014,37.84747123,7.538579317,5.5,5
+"684","Snnp","Shone","November",2014,37.94869425,7.134857075,4.13,5.3
+"685","Snnp","Doyugena","November",2014,37.78333,7.33333,5.2,8.22
+"686","Snnp","Alaba","November",2014,38.086143,7.311546,4,6
+"687","Snnp","Awasa","November",2014,38.474819,7.058624,6.5,7.5
+"688","Snnp","Hagere- Selam ","November",2014,38.51921184,6.513880636,4.98,6
+"689","Snnp","Dilla","November",2014,38.30745962,6.410516676,5.16,6.16
+"690","Snnp","Yirega-¦ Chefie ","November",2014,38.1988827,6.16095383,5.16,6.49
+"691","Snnp","Welikite","October",2014,37.77266735,8.27732366,5,7.08
+"692","Snnp","Butajira","October",2014,38.42140499,8.173264069,5.24,9
+"693","Snnp","Hosahna","October",2014,37.84747123,7.538579317,6.5,4.77
+"694","Snnp","Shone","October",2014,37.94869425,7.134857075,4.53,6.19
+"695","Snnp","Doyugena","October",2014,37.78333,7.33333,5.5,8.11
+"696","Snnp","Alaba","October",2014,38.086143,7.311546,4,6
+"697","Snnp","Awasa","October",2014,38.474819,7.058624,6.5,6.5
+"698","Snnp","Hagere- Selam ","October",2014,38.51921184,6.513880636,4.62,6
+"699","Snnp","Dilla","October",2014,38.30745962,6.410516676,6.16,7.16
+"700","Snnp","Yirega-¦ Chefie ","October",2014,38.1988827,6.16095383,4.53,6
+"711","Snnp","Welikite","September",2014,37.77266735,8.27732366,5.1,7.43
+"712","Snnp","Butajira","September",2014,38.42140499,8.173264069,5.63,NA
+"713","Snnp","Hosahna","September",2014,37.84747123,7.538579317,7.86,5
+"714","Snnp","Shone","September",2014,37.94869425,7.134857075,4.77,6.46
+"715","Snnp","Doyugena","September",2014,37.78333,7.33333,5.8,8.88
+"716","Snnp","Alaba","September",2014,38.086143,7.311546,4.5,8
+"717","Snnp","Awasa","September",2014,38.474819,7.058624,6.5,6.5
+"718","Snnp","Hagere- Selam ","September",2014,38.51921184,6.513880636,5.05,6.66
+"719","Snnp","Dilla","September",2014,38.30745962,6.410516676,6.5,7.08
+"720","Snnp","Yirega-¦ Chefie ","September",2014,38.1988827,6.16095383,5,6
+"721","Snnp","Welayita Sodo ","August",2014,37.766643,6.86176,6.13,8.47
+"722","Snnp","Bodite","August",2014,37.89064905,7.038034865,6.5,8.11
+"723","Snnp","Jinka","August",2014,36.56441614,5.78310286,5,7.98
+"724","Snnp","Dimeka","August",2014,36.45041198,4.892522922,6.32,10.49
+"725","Snnp","Masha","August",2014,35.47956686,7.741652627,5.83,7.5
+"726","Snnp","Tepi","August",2014,35.36770327,7.320015599,7,8.49
+"727","Snnp","Boniga","August",2014,36.24008346,7.388535704,5.83,NA
+"728","Snnp","Chana","August",2014,36.11775846,6.226550231,6,NA
+"729","Snnp","Arbam- Minch ","August",2014,37.5527474,6.024547891,7.33,9.63
+"730","Snnp","Sawla","August",2014,36.87437474,6.300226567,6,14
+"731","Snnp","Welayita Sodo ","December",2014,37.766643,6.86176,4.66,8.68
+"732","Snnp","Bodite","December",2014,37.89064905,7.038034865,4.83,6.76
+"733","Snnp","Jinka","December",2014,36.56441614,5.78310286,NA,10
+"734","Snnp","Dimeka","December",2014,36.45041198,4.892522922,5.13,9.49
+"735","Snnp","Masha","December",2014,35.47956686,7.741652627,NA,NA
+"736","Snnp","Tepi","December",2014,35.36770327,7.320015599,4,6
+"737","Snnp","Boniga","December",2014,36.24008346,7.388535704,3.5,NA
+"738","Snnp","Chana","December",2014,36.11775846,6.226550231,4,NA
+"739","Snnp","Arbam- Minch ","December",2014,37.5527474,6.024547891,5.5,8.26
+"740","Snnp","Sawla","December",2014,36.87437474,6.300226567,4.13,10.88
+"741","Snnp","Welayita Sodo ","February",2015,37.766643,6.86176,4.5,5.67
+"742","Snnp","Bodite","February",2015,37.89064905,7.038034865,4.5,6.76
+"743","Snnp","Jinka","February",2015,36.56441614,5.78310286,NA,7.41
+"744","Snnp","Dimeka","February",2015,36.45041198,4.892522922,5.16,9.43
+"745","Snnp","Masha","February",2015,35.47956686,7.741652627,5.83,NA
+"746","Snnp","Tepi","February",2015,35.36770327,7.320015599,4,6
+"747","Snnp","Boniga","February",2015,36.24008346,7.388535704,4,NA
+"748","Snnp","Chana","February",2015,36.11775846,6.226550231,4,NA
+"749","Snnp","Arbam- Minch ","February",2015,37.5527474,6.024547891,5.66,8.11
+"750","Snnp","Sawla","February",2015,36.87437474,6.300226567,3.73,12.88
+"751","Snnp","Welayita Sodo ","January",2015,37.766643,6.86176,4.66,8.68
+"752","Snnp","Bodite","January",2015,37.89064905,7.038034865,5,6.76
+"753","Snnp","Jinka","January",2015,36.56441614,5.78310286,NA,10
+"754","Snnp","Dimeka","January",2015,36.45041198,4.892522922,5.14,9.37
+"755","Snnp","Masha","January",2015,35.47956686,7.741652627,5.74,NA
+"756","Snnp","Tepi","January",2015,35.36770327,7.320015599,4,6
+"757","Snnp","Boniga","January",2015,36.24008346,7.388535704,4,NA
+"758","Snnp","Chana","January",2015,36.11775846,6.226550231,4,NA
+"759","Snnp","Arbam- Minch ","January",2015,37.5527474,6.024547891,5.5,8.26
+"760","Snnp","Sawla","January",2015,36.87437474,6.300226567,4.43,12.68
+"761","Snnp","Welayita Sodo ","July",2014,37.766643,6.86176,6.33,8.9
+"762","Snnp","Bodite","July",2014,37.89064905,7.038034865,6.3,8.11
+"763","Snnp","Jinka","July",2014,36.56441614,5.78310286,6.44,8.6
+"764","Snnp","Dimeka","July",2014,36.45041198,4.892522922,6.6,10.57
+"765","Snnp","Masha","July",2014,35.47956686,7.741652627,6,NA
+"766","Snnp","Tepi","July",2014,35.36770327,7.320015599,7,7.5
+"767","Snnp","Boniga","July",2014,36.24008346,7.388535704,5.66,NA
+"768","Snnp","Chana","July",2014,36.11775846,6.226550231,6,NA
+"769","Snnp","Arbam- Minch ","July",2014,37.5527474,6.024547891,6.83,9.55
+"770","Snnp","Sawla","July",2014,36.87437474,6.300226567,6,14.4
+"771","Snnp","Welayita Sodo ","June",2015,37.766643,6.86176,6,8.9
+"772","Snnp","Bodite","June",2015,37.89064905,7.038034865,6,6.44
+"773","Snnp","Jinka","June",2015,36.56441614,5.78310286,NA,9.2
+"774","Snnp","Dimeka","June",2015,36.45041198,4.892522922,5.7,9.32
+"775","Snnp","Masha","June",2015,35.47956686,7.741652627,NA,NA
+"776","Snnp","Tepi","June",2015,35.36770327,7.320015599,5,7
+"777","Snnp","Boniga","June",2015,36.24008346,7.388535704,4,NA
+"778","Snnp","Chana","June",2015,36.11775846,6.226550231,5,NA
+"779","Snnp","Arbam- Minch ","June",2015,37.5527474,6.024547891,6.5,8.18
+"780","Snnp","Sawla","June",2015,36.87437474,6.300226567,5.33,12.51
+"781","Snnp","Welayita Sodo ","March",2015,37.766643,6.86176,4.5,7.21
+"782","Snnp","Bodite","March",2015,37.89064905,7.038034865,4.5,6.76
+"783","Snnp","Jinka","March",2015,36.56441614,5.78310286,NA,9.26
+"784","Snnp","Dimeka","March",2015,36.45041198,4.892522922,5.73,9.43
+"785","Snnp","Masha","March",2015,35.47956686,7.741652627,NA,NA
+"786","Snnp","Tepi","March",2015,35.36770327,7.320015599,4,6
+"787","Snnp","Boniga","March",2015,36.24008346,7.388535704,4.5,NA
+"788","Snnp","Chana","March",2015,36.11775846,6.226550231,4,NA
+"789","Snnp","Arbam- Minch ","March",2015,37.5527474,6.024547891,5.16,8.33
+"790","Snnp","Sawla","March",2015,36.87437474,6.300226567,3.9,11.23
+"791","Snnp","Welayita Sodo ","May",2015,37.766643,6.86176,5,8.82
+"792","Snnp","Bodite","May",2015,37.89064905,7.038034865,5,7.63
+"793","Snnp","Jinka","May",2015,36.56441614,5.78310286,4,9.09
+"794","Snnp","Dimeka","May",2015,36.45041198,4.892522922,5.7,9.32
+"795","Snnp","Masha","May",2015,35.47956686,7.741652627,NA,NA
+"796","Snnp","Tepi","May",2015,35.36770327,7.320015599,4,7
+"797","Snnp","Boniga","May",2015,36.24008346,7.388535704,4,NA
+"798","Snnp","Chana","May",2015,36.11775846,6.226550231,4,NA
+"799","Snnp","Arbam- Minch ","May",2015,37.5527474,6.024547891,6,7.96
+"800","Snnp","Sawla","May",2015,36.87437474,6.300226567,5,13.05
+"801","Snnp","Welayita Sodo ","November",2014,37.766643,6.86176,4.43,8.68
+"802","Snnp","Bodite","November",2014,37.89064905,7.038034865,5,6.76
+"803","Snnp","Jinka","November",2014,36.56441614,5.78310286,3.98,7.41
+"804","Snnp","Dimeka","November",2014,36.45041198,4.892522922,5.41,9.56
+"805","Snnp","Masha","November",2014,35.47956686,7.741652627,NA,NA
+"806","Snnp","Tepi","November",2014,35.36770327,7.320015599,3,7
+"807","Snnp","Boniga","November",2014,36.24008346,7.388535704,3.5,NA
+"808","Snnp","Chana","November",2014,36.11775846,6.226550231,4,NA
+"809","Snnp","Arbam- Minch ","November",2014,37.5527474,6.024547891,5.33,8.11
+"810","Snnp","Sawla","November",2014,36.87437474,6.300226567,3.3,10.42
+"811","Snnp","Welayita Sodo ","October",2014,37.766643,6.86176,4.66,8.61
+"812","Snnp","Bodite","October",2014,37.89064905,7.038034865,4.5,6.76
+"813","Snnp","Jinka","October",2014,36.56441614,5.78310286,3.98,7.98
+"814","Snnp","Dimeka","October",2014,36.45041198,4.892522922,5.71,9.93
+"815","Snnp","Masha","October",2014,35.47956686,7.741652627,3.3,NA
+"816","Snnp","Tepi","October",2014,35.36770327,7.320015599,4.64,6.48
+"817","Snnp","Boniga","October",2014,36.24008346,7.388535704,4,NA
+"818","Snnp","Chana","October",2014,36.11775846,6.226550231,4,NA
+"819","Snnp","Arbam- Minch ","October",2014,37.5527474,6.024547891,5.66,8.57
+"820","Snnp","Sawla","October",2014,36.87437474,6.300226567,3.13,13.05
+"831","Snnp","Welayita Sodo ","September",2014,37.766643,6.86176,5.6,8.68
+"832","Snnp","Bodite","September",2014,37.89064905,7.038034865,6.23,8.11
+"833","Snnp","Jinka","September",2014,36.56441614,5.78310286,5,9.26
+"834","Snnp","Dimeka","September",2014,36.45041198,4.892522922,6.05,10.35
+"835","Snnp","Masha","September",2014,35.47956686,7.741652627,7,NA
+"836","Snnp","Tepi","September",2014,35.36770327,7.320015599,5,7
+"837","Snnp","Boniga","September",2014,36.24008346,7.388535704,5.16,NA
+"838","Snnp","Chana","September",2014,36.11775846,6.226550231,5,NA
+"839","Snnp","Arbam- Minch ","September",2014,37.5527474,6.024547891,6,7.89
+"840","Snnp","Sawla","September",2014,36.87437474,6.300226567,3.1,10.72
+"841","Snnp","Shewa- Bench ","August",2014,NA,NA,3.63,NA
+"842","Snnp","Mizan- Teferi ","August",2014,35.41120174,6.883477024,7,NA
+"843","Snnp","Deri","August",2014,36.28577951,7.384839762,5.46,6.04
+"844","Snnp","Amaro Kele ","August",2014,6.083333333,38.03333333,4.3,6.71
+"845","Snnp","Soyama","August",2014,5.7,37.88333333,6.99,NA
+"846","Snnp","Karate","August",2014,5.25,37.48333333,5.48,NA
+"847","Snnp","Gidola","August",2014,37.34772952,5.647078098,6.21,NA
+"848","Snnp","Tercha","August",2014,37.175334,7.146295,4.55,NA
+"849","Snnp","Besite- Chere ","August",2014,NA,NA,5.88,7.21
+"850","Snnp","Lasoka","August",2014,36.60777815,6.30774507,5,13.33
+"851","Snnp","Amaya","August",2014,36.68000727,7.105541206,6.37,NA
+"852","Snnp","Shewa- Bench ","December",2014,NA,NA,2.91,NA
+"853","Snnp","Mizan- Teferi ","December",2014,35.41120174,6.883477024,5,NA
+"854","Snnp","Deri","December",2014,36.28577951,7.384839762,5,6.67
+"855","Snnp","Amaro Kele ","December",2014,6.083333333,38.03333333,4.4,6.46
+"856","Snnp","Soyama","December",2014,5.7,37.88333333,4.93,NA
+"857","Snnp","Karate","December",2014,5.25,37.48333333,4.4,NA
+"858","Snnp","Gidola","December",2014,37.34772952,5.647078098,4.9,NA
+"859","Snnp","Tercha","December",2014,37.175334,7.146295,3.17,NA
+"860","Snnp","Besite- Chere ","December",2014,NA,NA,3.68,5.21
+"861","Snnp","Lasoka","December",2014,36.60777815,6.30774507,3.87,9.38
+"862","Snnp","Amaya","December",2014,36.68000727,7.105541206,3.84,NA
+"863","Snnp","Shewa- Bench ","February",2015,NA,NA,3.66,NA
+"864","Snnp","Mizan- Teferi ","February",2015,35.41120174,6.883477024,4.83,NA
+"865","Snnp","Deri","February",2015,36.28577951,7.384839762,4.47,6
+"866","Snnp","Amaro Kele ","February",2015,6.083333333,38.03333333,3.92,5.83
+"867","Snnp","Soyama","February",2015,5.7,37.88333333,4.89,NA
+"868","Snnp","Karate","February",2015,5.25,37.48333333,4.33,NA
+"869","Snnp","Gidola","February",2015,37.34772952,5.647078098,4.03,NA
+"870","Snnp","Tercha","February",2015,37.175334,7.146295,3.5,NA
+"871","Snnp","Besite- Chere ","February",2015,NA,NA,3.8,4.33
+"872","Snnp","Lasoka","February",2015,36.60777815,6.30774507,3.1,7.8
+"873","Snnp","Amaya","February",2015,36.68000727,7.105541206,4.29,NA
+"874","Snnp","Shewa- Bench ","January",2015,NA,NA,3.66,NA
+"875","Snnp","Mizan- Teferi ","January",2015,35.41120174,6.883477024,4.66,NA
+"876","Snnp","Deri","January",2015,36.28577951,7.384839762,4.44,5.21
+"877","Snnp","Amaro Kele ","January",2015,6.083333333,38.03333333,4.46,6.46
+"878","Snnp","Soyama","January",2015,5.7,37.88333333,4.35,NA
+"879","Snnp","Karate","January",2015,5.25,37.48333333,4.57,NA
+"880","Snnp","Gidola","January",2015,37.34772952,5.647078098,5.01,NA
+"881","Snnp","Tercha","January",2015,37.175334,7.146295,3.35,NA
+"882","Snnp","Besite- Chere ","January",2015,NA,NA,3.67,5.34
+"883","Snnp","Lasoka","January",2015,36.60777815,6.30774507,4,7.7
+"884","Snnp","Amaya","January",2015,36.68000727,7.105541206,4.16,NA
+"885","Snnp","Shewa- Bench ","July",2014,NA,NA,3.77,NA
+"886","Snnp","Mizan- Teferi ","July",2014,35.41120174,6.883477024,7,NA
+"887","Snnp","Deri","July",2014,36.28577951,7.384839762,5.36,6.12
+"888","Snnp","Amaro Kele ","July",2014,6.083333333,38.03333333,6.46,9.38
+"889","Snnp","Soyama","July",2014,5.7,37.88333333,6.47,NA
+"890","Snnp","Karate","July",2014,5.25,37.48333333,5.62,NA
+"891","Snnp","Gidola","July",2014,37.34772952,5.647078098,NA,NA
+"892","Snnp","Tercha","July",2014,37.175334,7.146295,4.72,NA
+"893","Snnp","Besite- Chere ","July",2014,NA,NA,6,6.68
+"894","Snnp","Lasoka","July",2014,36.60777815,6.30774507,NA,NA
+"895","Snnp","Amaya","July",2014,36.68000727,7.105541206,5.94,NA
+"896","Snnp","Shewa- Bench ","June",2015,NA,NA,3.5,NA
+"897","Snnp","Mizan- Teferi ","June",2015,35.41120174,6.883477024,5.31,7
+"898","Snnp","Deri","June",2015,36.28577951,7.384839762,4.49,5.44
+"899","Snnp","Amaro Kele ","June",2015,6.083333333,38.03333333,6.85,8.41
+"900","Snnp","Soyama","June",2015,5.7,37.88333333,5.43,NA
+"901","Snnp","Karate","June",2015,5.25,37.48333333,5.39,NA
+"902","Snnp","Gidola","June",2015,37.34772952,5.647078098,5.25,NA
+"903","Snnp","Tercha","June",2015,37.175334,7.146295,5,NA
+"904","Snnp","Besite- Chere ","June",2015,NA,NA,5.66,5.75
+"905","Snnp","Lasoka","June",2015,36.60777815,6.30774507,5.16,9.53
+"906","Snnp","Amaya","June",2015,36.68000727,7.105541206,5.78,NA
+"907","Snnp","Shewa- Bench ","March",2015,NA,NA,3.66,NA
+"908","Snnp","Mizan- Teferi ","March",2015,35.41120174,6.883477024,4.83,NA
+"909","Snnp","Deri","March",2015,36.28577951,7.384839762,4.47,5.68
+"910","Snnp","Amaro Kele ","March",2015,6.083333333,38.03333333,3.93,5.88
+"911","Snnp","Soyama","March",2015,5.7,37.88333333,4.35,NA
+"912","Snnp","Karate","March",2015,5.25,37.48333333,4.68,NA
+"913","Snnp","Gidola","March",2015,37.34772952,5.647078098,5,NA
+"914","Snnp","Tercha","March",2015,37.175334,7.146295,5.57,4.51
+"915","Snnp","Besite- Chere ","March",2015,NA,NA,4,5.31
+"916","Snnp","Lasoka","March",2015,36.60777815,6.30774507,3.17,7.12
+"917","Snnp","Amaya","March",2015,36.68000727,7.105541206,4.12,NA
+"918","Snnp","Shewa- Bench ","May",2015,NA,NA,3,NA
+"919","Snnp","Mizan- Teferi ","May",2015,35.41120174,6.883477024,5,NA
+"920","Snnp","Deri","May",2015,36.28577951,7.384839762,4.78,5.56
+"921","Snnp","Amaro Kele ","May",2015,6.083333333,38.03333333,5.49,8.13
+"922","Snnp","Soyama","May",2015,5.7,37.88333333,5.49,NA
+"923","Snnp","Karate","May",2015,5.25,37.48333333,5.38,NA
+"924","Snnp","Gidola","May",2015,37.34772952,5.647078098,5.21,NA
+"925","Snnp","Tercha","May",2015,37.175334,7.146295,4.3,NA
+"926","Snnp","Besite- Chere ","May",2015,NA,NA,4.5,5.27
+"927","Snnp","Lasoka","May",2015,36.60777815,6.30774507,4.33,9.23
+"928","Snnp","Amaya","May",2015,36.68000727,7.105541206,5.1,NA
+"929","Snnp","Shewa- Bench ","November",2014,NA,NA,2.5,NA
+"930","Snnp","Mizan- Teferi ","November",2014,35.41120174,6.883477024,5,NA
+"931","Snnp","Deri","November",2014,36.28577951,7.384839762,5.29,6.52
+"932","Snnp","Amaro Kele ","November",2014,6.083333333,38.03333333,5.02,7.25
+"933","Snnp","Soyama","November",2014,5.7,37.88333333,5.54,NA
+"934","Snnp","Karate","November",2014,5.25,37.48333333,4.58,NA
+"935","Snnp","Gidola","November",2014,37.34772952,5.647078098,3.8,NA
+"936","Snnp","Tercha","November",2014,37.175334,7.146295,3.4,NA
+"937","Snnp","Besite- Chere ","November",2014,NA,NA,4.06,5.25
+"938","Snnp","Lasoka","November",2014,36.60777815,6.30774507,3.89,12.5
+"939","Snnp","Amaya","November",2014,36.68000727,7.105541206,2.75,NA
+"940","Snnp","Shewa- Bench ","October",2014,NA,NA,3,NA
+"941","Snnp","Mizan- Teferi ","October",2014,35.41120174,6.883477024,5,NA
+"942","Snnp","Deri","October",2014,36.28577951,7.384839762,5.36,7.78
+"943","Snnp","Amaro Kele ","October",2014,6.083333333,38.03333333,4.46,8.66
+"944","Snnp","Soyama","October",2014,5.7,37.88333333,4.89,NA
+"945","Snnp","Karate","October",2014,5.25,37.48333333,5.07,NA
+"946","Snnp","Gidola","October",2014,37.34772952,5.647078098,3.53,NA
+"947","Snnp","Tercha","October",2014,37.175334,7.146295,3.5,NA
+"948","Snnp","Besite- Chere ","October",2014,NA,NA,4.11,5.15
+"949","Snnp","Lasoka","October",2014,36.60777815,6.30774507,3.5,8
+"950","Snnp","Amaya","October",2014,36.68000727,7.105541206,3.25,NA
+"962","Snnp","Shewa- Bench ","September",2014,NA,NA,3.12,NA
+"963","Snnp","Mizan- Teferi ","September",2014,35.41120174,6.883477024,6,NA
+"964","Snnp","Deri","September",2014,36.28577951,7.384839762,5.35,6.96
+"965","Snnp","Amaro Kele ","September",2014,6.083333333,38.03333333,3.89,5.77
+"966","Snnp","Soyama","September",2014,5.7,37.88333333,5.21,NA
+"967","Snnp","Karate","September",2014,5.25,37.48333333,5.08,NA
+"968","Snnp","Gidola","September",2014,37.34772952,5.647078098,5.11,NA
+"969","Snnp","Tercha","September",2014,37.175334,7.146295,3.85,NA
+"970","Snnp","Besite- Chere ","September",2014,NA,NA,4.31,5.8
+"971","Snnp","Lasoka","September",2014,36.60777815,6.30774507,4.5,8
+"972","Snnp","Amaya","September",2014,36.68000727,7.105541206,3.53,NA
+"973","Somalie","Shinile","August",2014,41.844013,9.686515,7,NA
+"974","Somalie","Arere","August",2014,NA,NA,8.33,8.65
+"975","Somalie","Jigjiga","August",2014,42.792342,9.367259,9.33,13
+"976","Somalie","Hartshek","August",2014,43.356499,9.161111,7.32,10
+"977","Somalie","Dolo","August",2014,42.059257,4.179211,9.51,11.43
+"978","Somalie","Moyale","August",2014,3.527,39.056,7,10
+"979","Benishangul-Gumuz","Mambook","August",2014,NA,NA,5.5,NA
+"980","Benishangul-Gumuz","Mender- Sebat ","August",2014,NA,NA,5,NA
+"981","Benishangul-Gumuz","Asossa","August",2014,34.53730603,10.05784932,5,NA
+"982","Benishangul-Gumuz","Bambasi","August",2014,34.73046863,9.751504664,3.44,NA
+"983","Benishangul-Gumuz","Kemashi","August",2014,35.85916991,9.515450626,5.01,NA
+"984","Benishangul-Gumuz","Agelo- Meti ","August",2014,35.77048443,9.640776618,6.09,NA
+"985","Benishangul-Gumuz","Avera","August",2014,NA,NA,4.93,NA
+"986","Somalie","Shinile","December",2014,41.844013,9.686515,7,NA
+"987","Somalie","Arere","December",2014,NA,NA,8,8.16
+"988","Somalie","Jigjiga","December",2014,42.792342,9.367259,9.01,12.66
+"989","Somalie","Hartshek","December",2014,43.356499,9.161111,8.79,12
+"990","Somalie","Dolo","December",2014,42.059257,4.179211,10.29,11.91
+"991","Somalie","Moyale","December",2014,3.527,39.056,7,9.65
+"992","Benishangul-Gumuz","Mambook","December",2014,NA,NA,4,NA
+"993","Benishangul-Gumuz","Mender- Sebat ","December",2014,NA,NA,4,NA
+"994","Benishangul-Gumuz","Asossa","December",2014,34.53730603,10.05784932,4.83,NA
+"995","Benishangul-Gumuz","Bambasi","December",2014,34.73046863,9.751504664,3.22,NA
+"996","Benishangul-Gumuz","Kemashi","December",2014,35.85916991,9.515450626,4.48,NA
+"997","Benishangul-Gumuz","Agelo- Meti ","December",2014,35.77048443,9.640776618,4.61,NA
+"998","Benishangul-Gumuz","Avera","December",2014,NA,NA,4.15,NA
+"999","Somalie","Shinile","February",2015,41.844013,9.686515,6,11
+"1000","Somalie","Arere","February",2015,NA,NA,7.33,7.16
+"1001","Somalie","Jigjiga","February",2015,42.792342,9.367259,8.98,12.66
+"1002","Somalie","Hartshek","February",2015,43.356499,9.161111,7.73,12
+"1003","Somalie","Dolo","February",2015,42.059257,4.179211,9.86,12.03
+"1004","Somalie","Moyale","February",2015,3.527,39.056,6.65,9.65
+"1005","Benishangul-Gumuz","Mambook","February",2015,NA,NA,4,NA
+"1006","Benishangul-Gumuz","Mender- Sebat ","February",2015,NA,NA,3.5,NA
+"1007","Benishangul-Gumuz","Asossa","February",2015,34.53730603,10.05784932,4.83,NA
+"1008","Benishangul-Gumuz","Bambasi","February",2015,34.73046863,9.751504664,3.67,NA
+"1009","Benishangul-Gumuz","Kemashi","February",2015,35.85916991,9.515450626,5.04,NA
+"1010","Benishangul-Gumuz","Agelo- Meti ","February",2015,35.77048443,9.640776618,4.81,NA
+"1011","Benishangul-Gumuz","Avera","February",2015,NA,NA,4.26,NA
+"1012","Somalie","Shinile","January",2015,41.844013,9.686515,7,NA
+"1013","Somalie","Arere","January",2015,NA,NA,7.66,8
+"1014","Somalie","Jigjiga","January",2015,42.792342,9.367259,9,13
+"1015","Somalie","Hartshek","January",2015,43.356499,9.161111,8.52,12
+"1016","Somalie","Dolo","January",2015,42.059257,4.179211,10.09,11.91
+"1017","Somalie","Moyale","January",2015,3.527,39.056,7,10
+"1018","Benishangul-Gumuz","Mambook","January",2015,NA,NA,4,NA
+"1019","Benishangul-Gumuz","Mender- Sebat ","January",2015,NA,NA,4,NA
+"1020","Benishangul-Gumuz","Asossa","January",2015,34.53730603,10.05784932,4.83,NA
+"1021","Benishangul-Gumuz","Bambasi","January",2015,34.73046863,9.751504664,4.84,NA
+"1022","Benishangul-Gumuz","Kemashi","January",2015,35.85916991,9.515450626,4.94,NA
+"1023","Benishangul-Gumuz","Agelo- Meti ","January",2015,35.77048443,9.640776618,4.46,NA
+"1024","Benishangul-Gumuz","Avera","January",2015,NA,NA,4.49,NA
+"1025","Somalie","Shinile","July",2014,41.844013,9.686515,7,NA
+"1026","Somalie","Arere","July",2014,NA,NA,8.16,7.83
+"1027","Somalie","Jigjiga","July",2014,42.792342,9.367259,9.67,13
+"1028","Somalie","Hartshek","July",2014,43.356499,9.161111,7.88,10
+"1029","Somalie","Dolo","July",2014,42.059257,4.179211,9.11,11.11
+"1030","Somalie","Moyale","July",2014,3.527,39.056,7.2,9.65
+"1031","Benishangul-Gumuz","Mambook","July",2014,NA,NA,5.5,NA
+"1032","Benishangul-Gumuz","Mender- Sebat ","July",2014,NA,NA,5,NA
+"1033","Benishangul-Gumuz","Asossa","July",2014,34.53730603,10.05784932,5,NA
+"1034","Benishangul-Gumuz","Bambasi","July",2014,34.73046863,9.751504664,4.28,NA
+"1035","Benishangul-Gumuz","Kemashi","July",2014,35.85916991,9.515450626,5,NA
+"1036","Benishangul-Gumuz","Agelo- Meti ","July",2014,35.77048443,9.640776618,6.09,NA
+"1037","Benishangul-Gumuz","Avera","July",2014,NA,NA,5.12,NA
+"1038","Somalie","Shinile","June",2015,41.844013,9.686515,8,NA
+"1039","Somalie","Arere","June",2015,NA,NA,6.11,9.49
+"1040","Somalie","Jigjiga","June",2015,42.792342,9.367259,9.61,13
+"1041","Somalie","Hartshek","June",2015,43.356499,9.161111,8.5,NA
+"1042","Somalie","Dolo","June",2015,42.059257,4.179211,9.56,11.91
+"1043","Somalie","Moyale","June",2015,3.527,39.056,6.83,10
+"1044","Benishangul-Gumuz","Mambook","June",2015,NA,NA,3.5,NA
+"1045","Benishangul-Gumuz","Mender- Sebat ","June",2015,NA,NA,4,NA
+"1046","Benishangul-Gumuz","Asossa","June",2015,34.53730603,10.05784932,4.83,NA
+"1047","Benishangul-Gumuz","Bambasi","June",2015,34.73046863,9.751504664,3.58,NA
+"1048","Benishangul-Gumuz","Kemashi","June",2015,35.85916991,9.515450626,4.29,NA
+"1049","Benishangul-Gumuz","Agelo- Meti ","June",2015,35.77048443,9.640776618,5.18,NA
+"1050","Benishangul-Gumuz","Avera","June",2015,NA,NA,4.19,NA
+"1051","Somalie","Shinile","March",2015,41.844013,9.686515,6,NA
+"1052","Somalie","Arere","March",2015,NA,NA,7.5,7.5
+"1053","Somalie","Jigjiga","March",2015,42.792342,9.367259,8.99,12.66
+"1054","Somalie","Hartshek","March",2015,43.356499,9.161111,7.97,12
+"1055","Somalie","Dolo","March",2015,42.059257,4.179211,9.77,11.84
+"1056","Somalie","Moyale","March",2015,3.527,39.056,7,10
+"1057","Benishangul-Gumuz","Mambook","March",2015,NA,NA,4,NA
+"1058","Benishangul-Gumuz","Mender- Sebat ","March",2015,NA,NA,4,NA
+"1059","Benishangul-Gumuz","Asossa","March",2015,34.53730603,10.05784932,4.83,NA
+"1060","Benishangul-Gumuz","Bambasi","March",2015,34.73046863,9.751504664,3.55,NA
+"1061","Benishangul-Gumuz","Kemashi","March",2015,35.85916991,9.515450626,4.79,NA
+"1062","Benishangul-Gumuz","Agelo- Meti ","March",2015,35.77048443,9.640776618,6.23,NA
+"1063","Benishangul-Gumuz","Avera","March",2015,NA,NA,4.49,NA
+"1064","Somalie","Shinile","May",2015,41.844013,9.686515,7,NA
+"1065","Somalie","Arere","May",2015,NA,NA,7.16,8
+"1066","Somalie","Jigjiga","May",2015,42.792342,9.367259,8.9,12.66
+"1067","Somalie","Hartshek","May",2015,43.356499,9.161111,8.75,10.95
+"1068","Somalie","Dolo","May",2015,42.059257,4.179211,9.66,11.85
+"1069","Somalie","Moyale","May",2015,3.527,39.056,7,10
+"1070","Benishangul-Gumuz","Mambook","May",2015,NA,NA,4,NA
+"1071","Benishangul-Gumuz","Mender- Sebat ","May",2015,NA,NA,4.16,NA
+"1072","Benishangul-Gumuz","Asossa","May",2015,34.53730603,10.05784932,4.83,NA
+"1073","Benishangul-Gumuz","Bambasi","May",2015,34.73046863,9.751504664,3.49,NA
+"1074","Benishangul-Gumuz","Kemashi","May",2015,35.85916991,9.515450626,4.27,NA
+"1075","Benishangul-Gumuz","Agelo- Meti ","May",2015,35.77048443,9.640776618,4.73,NA
+"1076","Benishangul-Gumuz","Avera","May",2015,NA,NA,4.22,NA
+"1077","Somalie","Shinile","November",2014,41.844013,9.686515,7,NA
+"1078","Somalie","Arere","November",2014,NA,NA,7.66,8.33
+"1079","Somalie","Jigjiga","November",2014,42.792342,9.367259,8.09,12.32
+"1080","Somalie","Hartshek","November",2014,43.356499,9.161111,8.36,12
+"1081","Somalie","Dolo","November",2014,42.059257,4.179211,9.51,11.97
+"1082","Somalie","Moyale","November",2014,3.527,39.056,7,10
+"1083","Benishangul-Gumuz","Mambook","November",2014,NA,NA,4,NA
+"1084","Benishangul-Gumuz","Mender- Sebat ","November",2014,NA,NA,4.5,NA
+"1085","Benishangul-Gumuz","Asossa","November",2014,34.53730603,10.05784932,5,NA
+"1086","Benishangul-Gumuz","Bambasi","November",2014,34.73046863,9.751504664,3.56,NA
+"1087","Benishangul-Gumuz","Kemashi","November",2014,35.85916991,9.515450626,4.82,NA
+"1088","Benishangul-Gumuz","Agelo- Meti ","November",2014,35.77048443,9.640776618,5.41,NA
+"1089","Benishangul-Gumuz","Avera","November",2014,NA,NA,4.5,NA
+"1090","Somalie","Shinile","October",2014,41.844013,9.686515,7,NA
+"1091","Somalie","Arere","October",2014,NA,NA,8,8.65
+"1092","Somalie","Jigjiga","October",2014,42.792342,9.367259,8.98,13
+"1093","Somalie","Hartshek","October",2014,43.356499,9.161111,8.06,11
+"1094","Somalie","Dolo","October",2014,42.059257,4.179211,10.09,11.91
+"1095","Somalie","Moyale","October",2014,3.527,39.056,7,9.65
+"1096","Benishangul-Gumuz","Mambook","October",2014,NA,NA,3.5,NA
+"1097","Benishangul-Gumuz","Mender- Sebat ","October",2014,NA,NA,4.5,NA
+"1098","Benishangul-Gumuz","Asossa","October",2014,34.53730603,10.05784932,5,NA
+"1099","Benishangul-Gumuz","Bambasi","October",2014,34.73046863,9.751504664,2.17,NA
+"1100","Benishangul-Gumuz","Kemashi","October",2014,35.85916991,9.515450626,5.04,NA
+"1101","Benishangul-Gumuz","Agelo- Meti ","October",2014,35.77048443,9.640776618,5.14,NA
+"1102","Benishangul-Gumuz","Avera","October",2014,NA,NA,4.05,NA
+"1116","Somalie","Shinile","September",2014,41.844013,9.686515,7,NA
+"1117","Somalie","Arere","September",2014,NA,NA,7.83,8.83
+"1118","Somalie","Jigjiga","September",2014,42.792342,9.367259,9.42,13
+"1119","Somalie","Hartshek","September",2014,43.356499,9.161111,8.02,10
+"1120","Somalie","Dolo","September",2014,42.059257,4.179211,9.86,11.84
+"1121","Somalie","Moyale","September",2014,3.527,39.056,7,10
+"1122","Benishangul-Gumuz","Mambook","September",2014,NA,NA,4.5,NA
+"1123","Benishangul-Gumuz","Mender- Sebat ","September",2014,NA,NA,4.5,NA
+"1124","Benishangul-Gumuz","Asossa","September",2014,34.53730603,10.05784932,5,NA
+"1125","Benishangul-Gumuz","Bambasi","September",2014,34.73046863,9.751504664,2.64,NA
+"1126","Benishangul-Gumuz","Kemashi","September",2014,35.85916991,9.515450626,4.19,NA
+"1127","Benishangul-Gumuz","Agelo- Meti ","September",2014,35.77048443,9.640776618,5.6,NA
+"1128","Benishangul-Gumuz","Avera","September",2014,NA,NA,4.29,NA
+"1129","Tigray","Enda- Silase ","August",2014,38.27211005,14.08944251,5.16,NA
+"1130","Tigray","Enda- Baguna ","August",2014,38.19317204,13.97860867,5.48,NA
+"1131","Tigray","Adwa","August",2014,38.88818805,14.14845458,6.63,NA
+"1132","Tigray","Axum","August",2014,38.71879888,14.11130791,7.02,NA
+"1133","Tigray","Adigrat","August",2014,39.46033457,14.26667752,6.4,NA
+"1134","Tigray","Wukiro","August",2014,39.599747,13.796083,6.33,5.4
+"1135","Tigray","Mai- Chew ","August",2014,39.541533,12.78792086,6.81,8.8
+"1136","Tigray","Mekelle","August",2014,39.47221911,13.48719005,6.5,NA
+"1137","Afar","Ayisaeta","August",2014,41.43333,11.56667,5.66,9.32
+"1138","Afar","Dubti","August",2014,41.08260323,11.72765333,5,NA
+"1139","Afar","Melka Werers ","August",2014,40.18154914,9.340880502,7.16,8
+"1140","Afar","Sebat Killo ","August",2014,8.983333333,40.16666667,6.47,NA
+"1141","Tigray","Enda- Silase ","December",2014,38.27211005,14.08944251,4.89,NA
+"1142","Tigray","Enda- Baguna ","December",2014,38.19317204,13.97860867,4.87,NA
+"1143","Tigray","Adwa","December",2014,38.88818805,14.14845458,6,NA
+"1144","Tigray","Axum","December",2014,38.71879888,14.11130791,5.94,NA
+"1145","Tigray","Adigrat","December",2014,39.46033457,14.26667752,5.53,NA
+"1146","Tigray","Wukiro","December",2014,39.599747,13.796083,5.47,5.54
+"1147","Tigray","Mai- Chew ","December",2014,39.541533,12.78792086,7.16,8.61
+"1148","Tigray","Mekelle","December",2014,39.47221911,13.48719005,5.33,NA
+"1149","Afar","Ayisaeta","December",2014,41.43333,11.56667,5,9.32
+"1150","Afar","Dubti","December",2014,41.08260323,11.72765333,6,NA
+"1151","Afar","Melka Werers ","December",2014,40.18154914,9.340880502,6.83,7.83
+"1152","Afar","Sebat Killo ","December",2014,8.983333333,40.16666667,5.73,NA
+"1153","Tigray","Enda- Silase ","February",2015,38.27211005,14.08944251,5.22,NA
+"1154","Tigray","Enda- Baguna ","February",2015,38.19317204,13.97860867,4.44,NA
+"1155","Tigray","Adwa","February",2015,38.88818805,14.14845458,6,NA
+"1156","Tigray","Axum","February",2015,38.71879888,14.11130791,5.86,NA
+"1157","Tigray","Adigrat","February",2015,39.46033457,14.26667752,5.27,NA
+"1158","Tigray","Wukiro","February",2015,39.599747,13.796083,5.5,4.13
+"1159","Tigray","Mai- Chew ","February",2015,39.541533,12.78792086,6.71,7.59
+"1160","Tigray","Mekelle","February",2015,39.47221911,13.48719005,5.33,NA
+"1161","Afar","Ayisaeta","February",2015,41.43333,11.56667,5.16,9.49
+"1162","Afar","Dubti","February",2015,41.08260323,11.72765333,6.65,NA
+"1163","Afar","Melka Werers ","February",2015,40.18154914,9.340880502,7,7.83
+"1164","Afar","Sebat Killo ","February",2015,8.983333333,40.16666667,6.3,NA
+"1165","Tigray","Enda- Silase ","January",2015,38.27211005,14.08944251,5.24,NA
+"1166","Tigray","Enda- Baguna ","January",2015,38.19317204,13.97860867,4.1,NA
+"1167","Tigray","Adwa","January",2015,38.88818805,14.14845458,6,NA
+"1168","Tigray","Axum","January",2015,38.71879888,14.11130791,5.99,NA
+"1169","Tigray","Adigrat","January",2015,39.46033457,14.26667752,5.76,NA
+"1170","Tigray","Wukiro","January",2015,39.599747,13.796083,5.5,9.81
+"1171","Tigray","Mai- Chew ","January",2015,39.541533,12.78792086,6.68,7.59
+"1172","Tigray","Mekelle","January",2015,39.47221911,13.48719005,5.5,NA
+"1173","Afar","Ayisaeta","January",2015,41.43333,11.56667,5.83,9
+"1174","Afar","Dubti","January",2015,41.08260323,11.72765333,5.83,NA
+"1175","Afar","Melka Werers ","January",2015,40.18154914,9.340880502,6,7
+"1176","Afar","Sebat Killo ","January",2015,8.983333333,40.16666667,5.83,NA
+"1177","Tigray","Enda- Silase ","July",2014,38.27211005,14.08944251,5.5,NA
+"1178","Tigray","Enda- Baguna ","July",2014,38.19317204,13.97860867,5.48,NA
+"1179","Tigray","Adwa","July",2014,38.88818805,14.14845458,6.6,NA
+"1180","Tigray","Axum","July",2014,38.71879888,14.11130791,8.42,NA
+"1181","Tigray","Adigrat","July",2014,39.46033457,14.26667752,6.37,NA
+"1182","Tigray","Wukiro","July",2014,39.599747,13.796083,6.23,9.81
+"1183","Tigray","Mai- Chew ","July",2014,39.541533,12.78792086,8.41,9.61
+"1184","Tigray","Mekelle","July",2014,39.47221911,13.48719005,6.5,NA
+"1185","Afar","Ayisaeta","July",2014,41.43333,11.56667,5.66,9.32
+"1186","Afar","Dubti","July",2014,41.08260323,11.72765333,5,NA
+"1187","Afar","Melka Werers ","July",2014,40.18154914,9.340880502,7,8
+"1188","Afar","Sebat Killo ","July",2014,8.983333333,40.16666667,6.4,NA
+"1189","Tigray","Enda- Silase ","June",2015,38.27211005,14.08944251,4.49,NA
+"1190","Tigray","Enda- Baguna ","June",2015,38.19317204,13.97860867,5.64,NA
+"1191","Tigray","Adwa","June",2015,38.88818805,14.14845458,5.23,NA
+"1192","Tigray","Axum","June",2015,38.71879888,14.11130791,5.43,NA
+"1193","Tigray","Adigrat","June",2015,39.46033457,14.26667752,5.33,NA
+"1194","Tigray","Wukiro","June",2015,39.599747,13.796083,5.5,7.78
+"1195","Tigray","Mai- Chew ","June",2015,39.541533,12.78792086,5.57,9.54
+"1196","Tigray","Mekelle","June",2015,39.47221911,13.48719005,5.5,NA
+"1197","Afar","Ayisaeta","June",2015,41.43333,11.56667,6,9
+"1198","Afar","Dubti","June",2015,41.08260323,11.72765333,5.31,8.94
+"1199","Afar","Melka Werers ","June",2015,40.18154914,9.340880502,5.65,7
+"1200","Afar","Sebat Killo ","June",2015,8.983333333,40.16666667,5.73,NA
+"1201","Tigray","Enda- Silase ","March",2015,38.27211005,14.08944251,4.97,NA
+"1202","Tigray","Enda- Baguna ","March",2015,38.19317204,13.97860867,4.62,NA
+"1203","Tigray","Adwa","March",2015,38.88818805,14.14845458,6,NA
+"1204","Tigray","Axum","March",2015,38.71879888,14.11130791,5.89,NA
+"1205","Tigray","Adigrat","March",2015,39.46033457,14.26667752,5.27,NA
+"1206","Tigray","Wukiro","March",2015,39.599747,13.796083,5.4,4.84
+"1207","Tigray","Mai- Chew ","March",2015,39.541533,12.78792086,6.66,8.44
+"1208","Tigray","Mekelle","March",2015,39.47221911,13.48719005,5.16,NA
+"1209","Afar","Ayisaeta","March",2015,41.43333,11.56667,5.16,9.32
+"1210","Afar","Dubti","March",2015,41.08260323,11.72765333,6,NA
+"1211","Afar","Melka Werers ","March",2015,40.18154914,9.340880502,7,7.83
+"1212","Afar","Sebat Killo ","March",2015,8.983333333,40.16666667,6.63,NA
+"1213","Tigray","Enda- Silase ","May",2015,38.27211005,14.08944251,4.74,NA
+"1214","Tigray","Enda- Baguna ","May",2015,38.19317204,13.97860867,4.62,NA
+"1215","Tigray","Adwa","May",2015,38.88818805,14.14845458,5.1,NA
+"1216","Tigray","Axum","May",2015,38.71879888,14.11130791,5.3,NA
+"1217","Tigray","Adigrat","May",2015,39.46033457,14.26667752,5.27,NA
+"1218","Tigray","Wukiro","May",2015,39.599747,13.796083,5.3,7.73
+"1219","Tigray","Mai- Chew ","May",2015,39.541533,12.78792086,5.39,7.91
+"1220","Tigray","Mekelle","May",2015,39.47221911,13.48719005,5.33,NA
+"1221","Afar","Ayisaeta","May",2015,41.43333,11.56667,5.33,8.65
+"1222","Afar","Dubti","May",2015,41.08260323,11.72765333,6,NA
+"1223","Afar","Melka Werers ","May",2015,40.18154914,9.340880502,6,7
+"1224","Afar","Sebat Killo ","May",2015,8.983333333,40.16666667,5.48,6.83
+"1225","Tigray","Enda- Silase ","November",2014,38.27211005,14.08944251,5.13,NA
+"1226","Tigray","Enda- Baguna ","November",2014,38.19317204,13.97860867,5.16,NA
+"1227","Tigray","Adwa","November",2014,38.88818805,14.14845458,6,NA
+"1228","Tigray","Axum","November",2014,38.71879888,14.11130791,5.97,NA
+"1229","Tigray","Adigrat","November",2014,39.46033457,14.26667752,5.8,NA
+"1230","Tigray","Wukiro","November",2014,39.599747,13.796083,5.5,5.54
+"1231","Tigray","Mai- Chew ","November",2014,39.541533,12.78792086,6.71,8.91
+"1232","Tigray","Mekelle","November",2014,39.47221911,13.48719005,6.02,NA
+"1233","Afar","Ayisaeta","November",2014,41.43333,11.56667,5.65,8.32
+"1234","Afar","Dubti","November",2014,41.08260323,11.72765333,6,NA
+"1235","Afar","Melka Werers ","November",2014,40.18154914,9.340880502,6.16,7.16
+"1236","Afar","Sebat Killo ","November",2014,8.983333333,40.16666667,6.1,NA
+"1237","Tigray","Enda- Silase ","October",2014,38.27211005,14.08944251,5.14,NA
+"1238","Tigray","Enda- Baguna ","October",2014,38.19317204,13.97860867,5.48,NA
+"1239","Tigray","Adwa","October",2014,38.88818805,14.14845458,6,NA
+"1240","Tigray","Axum","October",2014,38.71879888,14.11130791,5.86,NA
+"1241","Tigray","Adigrat","October",2014,39.46033457,14.26667752,5.93,NA
+"1242","Tigray","Wukiro","October",2014,39.599747,13.796083,5.8,9.87
+"1243","Tigray","Mai- Chew ","October",2014,39.541533,12.78792086,6.67,7.64
+"1244","Tigray","Mekelle","October",2014,39.47221911,13.48719005,6.16,NA
+"1245","Afar","Ayisaeta","October",2014,41.43333,11.56667,5.31,NA
+"1246","Afar","Dubti","October",2014,41.08260323,11.72765333,5.74,NA
+"1247","Afar","Melka Werers ","October",2014,40.18154914,9.340880502,6.33,7.5
+"1248","Afar","Sebat Killo ","October",2014,8.983333333,40.16666667,6.24,NA
+"1261","Tigray","Enda- Silase ","September",2014,38.27211005,14.08944251,5.22,NA
+"1262","Tigray","Enda- Baguna ","September",2014,38.19317204,13.97860867,5.23,NA
+"1263","Tigray","Adwa","September",2014,38.88818805,14.14845458,6,NA
+"1264","Tigray","Axum","September",2014,38.71879888,14.11130791,5.94,NA
+"1265","Tigray","Adigrat","September",2014,39.46033457,14.26667752,6,NA
+"1266","Tigray","Wukiro","September",2014,39.599747,13.796083,6.13,5.44
+"1267","Tigray","Mai- Chew ","September",2014,39.541533,12.78792086,7.11,9.53
+"1268","Tigray","Mekelle","September",2014,39.47221911,13.48719005,6.33,NA
+"1269","Afar","Ayisaeta","September",2014,41.43333,11.56667,7.32,10
+"1270","Afar","Dubti","September",2014,41.08260323,11.72765333,5.31,NA
+"1271","Afar","Melka Werers ","September",2014,40.18154914,9.340880502,6.5,7.16
+"1272","Afar","Sebat Killo ","September",2014,8.983333333,40.16666667,6.24,NA
