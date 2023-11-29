@@ -55,6 +55,12 @@ df[,c(4:length(df))] <- convert_char_to_numeric(df[,c(4:length(df))])
 summary(df)
 
 
+# convert text values to standardized values
+df[,"Region"] <- stringr::str_to_title(df$Region)
+df[,"Market"] <- stringr::str_to_title(df$Market)
+df[,"Month"] <- stringr::str_to_sentence(df$Month)
+
+
 # check spatial & temporal coverage 
 unique(df$Region) # need to be encoded
 unique(df$Market) # need to be standardized/coded & assigned coordinates

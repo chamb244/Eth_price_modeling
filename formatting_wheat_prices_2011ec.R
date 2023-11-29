@@ -69,7 +69,6 @@ table(df$Year, df$Month, useNA="ifany")
 summary(df[,c("pkg.wht.white", "pkg.wht.mixed", "pkg.wht.blred")])
 cor(df[,c("pkg.wht.white", "pkg.wht.mixed", "pkg.wht.blred")], use = "complete.obs")
 
-
 # create composite 
 df[,"pkg.wht.allwh"] <- df$pkg.wht.white
 df$pkg.wht.allwh <- ifelse(is.na(df$pkg.wht.allwh), df$pkg.wht.blred, df$pkg.wht.allwh)

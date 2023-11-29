@@ -74,6 +74,10 @@ df <- df[,!(names(df) %in% c("pkg.wht.white2", "pkg.wht.mixed2", "pkg.wht.blred2
 
 summary(df)
 
+# convert text values to standardized values
+df[,"Region"] <- stringr::str_to_title(df$Region)
+df[,"Market"] <- stringr::str_to_title(df$Market)
+df[,"Month"] <- stringr::str_to_sentence(df$Month)
 
 # check spatial & temporal coverage 
 unique(df$Region) # need to be encoded
